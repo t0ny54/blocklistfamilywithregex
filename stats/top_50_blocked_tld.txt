@@ -1,50 +1,50 @@
- 875680 com
- 134068 net
-  63639 info
-  61237 de
-  54179 org
-  29724 it
+ 878946 com
+ 134801 net
+  63802 info
+  61252 de
+  54220 org
+  29723 it
   27119 nl
-  25303 fr
-  22443 uk
-  17455 es
-  13670 eu
-  13045 in
-  11773 us
-  11627 co
-   9164 au
+  25314 fr
+  22461 uk
+  17461 es
+  13693 eu
+  13041 in
+  11786 us
+  11697 co
+   9161 au
    7998 xxx
-   7674 ch
-   6922 ca
-   6843 be
-   6032 io
+   7673 ch
+   6941 ca
+   6844 be
+   6201 io
    5374 hu
-   4871 at
-   4781 id
-   4655 dk
-   4573 se
-   3707 mobi
+   4858 at
+   4780 id
+   4653 dk
+   4571 se
+   3729 mobi
    3335 st
-   3233 cl
-   2789 ir
-   2665 sg
-   2630 ng
+   3234 cl
+   2785 ir
+   2667 sg
+   2632 ng
    2577 porn
-   2570 ar
-   2408 ae
-   2374 gr
-   2020 vip
+   2573 ar
+   2407 ae
+   2375 gr
+   2021 vip
    1987 nu
    1924 il
    1030 nz
     965 to
-    868 ie
-    863 hk
-    770 one
-    770 men
+    869 ie
+    864 hk
+    773 men
+    767 one
     748 hr
-    680 buzz
+    691 buzz
     663 bg
-    645 ee
-    639 pe
-    625 click
+    648 monster
+    646 ee
+    640 pe
