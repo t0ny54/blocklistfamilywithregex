@@ -1,50 +1,50 @@
- 743696 com
- 116824 net
-  60953 ru
-  51766 tk
-  49722 de
+ 743677 com
+ 116802 net
+  49721 de
   45817 org
-  45523 stream
-  33507 xyz
-  27072 cn
   26733 info
   25335 nl
   23143 fr
-  19354 uk
-  17556 br
-  16418 pl
-  16058 cc
-  15983 top
+  19351 uk
   13667 it
-  11811 icu
-  11708 biz
   11483 eu
-  11004 site
   10775 in
   10535 co
-   9407 jp
-   9279 es
-   8993 club
-   7987 su
-   7867 me
-   7644 au
+   9278 es
+   7637 au
    7327 ch
-   7257 win
-   7250 online
-   7248 io
-   6668 bid
-   6526 pw
-   6381 pro
+   7247 io
    6171 ca
-   6113 tv
    6102 be
-   5613 hu
+   5612 hu
    5560 us
-   5258 cz
-   5207 ml
-   4861 ga
-   4835 ws
-   4817 cf
-   4498 tr
-   4490 review
-   4446 dk
+   4444 dk
+   4365 at
+   4224 xxx
+   4038 id
+   3985 se
+   3690 mobi
+   3283 st
+   2623 cl
+   2472 sg
+   2345 ng
+   2336 ae
+   2220 porn
+   2162 ir
+   2162 gr
+   2015 ar
+   1783 il
+   1720 vip
+   1073 nu
+    904 nz
+    859 to
+    785 ie
+    770 hk
+    712 hr
+    699 one
+    629 bg
+    619 ee
+    563 men
+    553 buzz
+    521 pe
+    519 lv
