@@ -1,50 +1,50 @@
- 708270 com
- 114593 net
-  55276 ru
-  44270 tk
-  44159 de
-  43787 org
-  31673 stream
-  31565 xyz
-  25877 info
-  25029 cn
-  24721 nl
-  22037 fr
-  18323 uk
-  14836 br
-  13397 cc
-  12573 pl
-  11971 es
-  11846 top
-  11174 eu
-  10981 biz
-  10359 site
-  10298 in
+ 708487 com
+ 114626 net
+  55124 ru
+  44283 tk
+  44163 de
+  43796 org
+  31674 stream
+  31629 xyz
+  25902 info
+  25039 cn
+  24724 nl
+  22039 fr
+  18325 uk
+  14849 br
+  13402 cc
+  12550 pl
+  11967 es
+  11847 top
+  11171 eu
+  10985 biz
+  10377 site
+  10293 in
   10084 co
-   8941 jp
-   8757 it
-   7711 su
-   7587 club
-   7521 me
-   7182 io
+   8940 jp
+   8760 it
+   7721 su
+   7603 club
+   7533 me
+   7181 io
    6959 ch
-   6699 au
-   6600 online
-   6191 pro
+   6695 au
+   6584 online
+   6200 pro
    6006 tv
-   5880 be
-   5754 ca
+   5879 be
+   5756 ca
    5316 us
-   4774 cz
-   4627 pw
+   4777 cz
+   4626 pw
    4527 ws
    4293 xxx
    4258 dk
-   4164 tr
-   4145 at
-   4078 ml
+   4163 tr
+   4142 at
+   4097 ml
    4076 hu
    4021 ga
-   3963 cf
-   3857 id
-   3779 win
+   3962 cf
+   3855 id
+   3778 win
