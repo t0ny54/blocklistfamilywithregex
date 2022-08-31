@@ -1,50 +1,50 @@
- 702468 com
- 102799 net
-  54376 ru
-  44502 tk
-  43878 de
-  43410 org
+ 702692 com
+ 102811 net
+  54423 ru
+  44509 tk
+  43884 de
+  43404 org
   31640 stream
-  30734 xyz
-  25740 info
-  24791 nl
-  24457 cn
-  20020 fr
-  13930 uk
-  12911 cc
-  12254 pl
-  11735 top
-  11155 eu
-  10922 biz
+  30771 xyz
+  25751 info
+  24802 nl
+  24469 cn
+  20022 fr
+  13934 uk
+  12912 cc
+  12278 pl
+  11790 top
+  11160 eu
+  10940 biz
   10818 br
-  10337 site
-  10248 in
-   8615 it
-   8451 jp
-   7860 co
-   7733 su
-   7576 club
-   7550 me
-   7006 ch
-   6534 online
+  10350 site
+  10252 in
+   8614 it
+   8457 jp
+   7864 co
+   7735 su
+   7579 club
+   7542 me
+   7007 ch
+   6537 online
    6183 pro
-   5988 tv
-   5913 be
-   5774 io
+   5989 tv
+   5915 be
+   5775 io
    5772 ca
-   5547 au
-   5364 us
-   4875 cz
-   4815 es
-   4561 pw
-   4516 ws
+   5549 au
+   5361 us
+   4879 cz
+   4819 es
+   4566 pw
+   4515 ws
    4293 xxx
    4266 dk
-   4122 at
-   4086 hu
-   4058 ml
-   4026 ga
+   4123 at
+   4090 hu
+   4063 ml
+   4021 ga
    3985 cf
-   3782 win
+   3781 win
    3671 mobi
-   3667 ro
+   3666 ro
