@@ -1,50 +1,50 @@
- 710701 com
- 116373 net
-  56495 br
-  50099 ru
-  44144 org
-  43968 de
-  25723 info
-  24750 nl
-  23866 fr
-  21877 xyz
-  20223 cn
-  18402 uk
+ 710857 com
+ 116413 net
+  56512 br
+  49573 ru
+  44136 org
+  43967 de
+  25682 info
+  24752 nl
+  23892 fr
+  21879 xyz
+  20213 cn
+  18407 uk
   12441 cc
-  11062 eu
-  10931 pl
-  10677 co
-  10346 in
-   8795 jp
-   8740 it
-   8734 biz
-   8524 top
-   7669 su
-   7173 io
-   6964 me
+  11074 eu
+  10995 pl
+  10684 co
+  10367 in
+   8796 jp
+   8743 it
+   8731 biz
+   8527 top
+   7663 su
+   7174 io
+   6962 me
    6944 ch
-   6858 au
-   6655 es
-   6111 pro
+   6854 au
+   6657 es
+   6127 pro
    5875 be
-   5694 ca
-   5412 us
+   5695 ca
+   5410 us
    5402 tv
    5387 lu
-   5308 club
+   5309 club
    4893 cz
-   4633 pw
-   4567 at
-   4521 ws
-   4515 site
+   4637 pw
+   4574 at
+   4519 ws
+   4519 site
    4425 xxx
-   4380 dk
-   4225 id
-   4121 tr
-   4070 ml
+   4382 dk
+   4228 id
+   4119 tr
+   4065 ml
    4039 se
-   3924 ga
-   3911 online
-   3767 win
-   3745 cf
-   3678 hu
+   3915 online
+   3914 ga
+   3765 win
+   3739 cf
+   3679 hu
