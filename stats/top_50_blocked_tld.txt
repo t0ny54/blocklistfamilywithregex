@@ -1,50 +1,50 @@
- 722110 com
- 119045 net
-  56530 br
-  50356 ru
-  44806 org
-  44258 de
-  28328 info
-  25100 nl
-  24062 fr
-  23022 xyz
-  20837 cn
-  18603 uk
-  12585 cc
-  11521 eu
-  10994 co
-  10759 pl
-  10578 in
-   9014 biz
-   8955 top
+ 725140 com
+ 119359 net
+  56528 br
+  50902 ru
+  44917 org
+  44264 de
+  28402 info
+  25105 nl
+  24133 fr
+  23228 xyz
+  20886 cn
+  18612 uk
+  12661 cc
+  11537 eu
+  11055 co
+  10770 pl
+  10584 in
+   9081 top
+   9026 biz
    8846 jp
    8840 it
-   7816 su
-   7213 io
-   7087 me
+   7835 su
+   7264 io
+   7126 me
    7006 ch
-   6798 au
+   6801 au
    6684 es
-   5928 be
-   5762 pro
-   5732 ca
-   5583 us
-   5476 club
-   5445 tv
+   5926 be
+   5790 pro
+   5735 ca
+   5605 us
+   5526 club
+   5448 tv
    5389 lu
-   5124 site
-   4875 cz
+   5142 site
+   4877 cz
    4529 xxx
    4515 ws
-   4457 at
+   4460 at
    4380 dk
-   4172 hu
-   4103 online
-   4043 tr
-   3934 se
-   3900 id
-   3878 mobi
+   4171 hu
+   4137 online
+   4046 tr
+   3937 se
+   3907 id
+   3884 mobi
    3506 ro
    3463 st
-   3415 tk
-   3151 ml
+   3426 tk
+   3165 app
