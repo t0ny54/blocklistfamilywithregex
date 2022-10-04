@@ -1,50 +1,50 @@
- 723242 com
- 119055 net
-  56543 br
-  50921 ru
-  44925 org
-  44502 de
-  28372 info
+ 722567 com
+ 118802 net
+  56558 br
+  50322 ru
+  44901 org
+  44495 de
+  28306 info
   25285 nl
-  24387 fr
-  22911 xyz
+  24437 fr
+  22882 xyz
   20823 cn
-  18647 uk
-  12557 cc
-  11549 eu
-  11006 co
-  10820 pl
-  10604 in
-   9116 it
-   9020 biz
-   8978 jp
-   8932 top
-   7835 su
+  18646 uk
+  12556 cc
+  11538 eu
+  11008 co
+  10833 pl
+  10593 in
+   9115 it
+   9000 biz
+   8977 jp
+   8902 top
+   7817 su
    7228 io
-   7095 me
-   7025 ch
-   6885 au
-   6881 es
+   7085 me
+   7026 ch
+   6885 es
+   6883 au
    5944 be
-   5786 pro
-   5783 ca
-   5597 us
-   5481 club
-   5452 tv
+   5785 pro
+   5780 ca
+   5579 us
+   5459 club
+   5451 tv
    5391 lu
-   5103 site
-   4898 cz
+   5100 site
+   4897 cz
    4529 xxx
    4515 ws
-   4471 at
-   4403 dk
-   4180 hu
-   4100 online
-   4061 tr
+   4473 at
+   4404 dk
+   4185 hu
+   4097 online
+   4066 tr
    3958 se
-   3912 id
-   3881 mobi
-   3516 ro
+   3905 id
+   3880 mobi
+   3511 ro
    3466 st
-   3426 tk
-   3165 app
+   3390 tk
+   3158 ml
