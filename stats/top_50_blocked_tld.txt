@@ -1,50 +1,50 @@
- 758860 com
- 129834 net
+ 758822 com
+ 129868 net
   57048 br
-  50349 ru
-  47609 de
-  45448 org
-  28458 info
-  25305 xyz
-  25277 fr
-  23812 nl
-  20474 cn
-  19089 uk
-  13048 cc
-  11911 top
+  50251 ru
+  47608 de
+  45450 org
+  28448 info
+  25304 xyz
+  25302 fr
+  23808 nl
+  20486 cn
+  19090 uk
+  13046 cc
+  11921 top
   11364 co
-  11298 eu
-  10877 in
-  10505 pl
-   9112 it
+  11301 eu
+  10874 in
+  10510 pl
+   9111 it
    8686 jp
-   8617 biz
-   7856 su
-   7837 me
-   7296 io
+   8616 biz
+   7855 su
+   7833 me
+   7290 io
    7196 ch
-   6927 au
-   6806 es
-   6060 us
-   6025 club
-   5948 be
+   6926 au
+   6804 es
+   6061 us
+   6024 club
+   5947 be
    5875 ca
-   5649 pro
+   5651 pro
    5519 tv
    5396 lu
-   4905 cz
-   4836 site
-   4822 online
-   4515 ws
+   4906 cz
+   4831 site
+   4824 online
+   4517 ws
    4464 at
    4349 xxx
-   4278 tk
+   4277 tk
    4212 dk
    4147 hu
    4081 id
    4067 mobi
    4028 tr
-   3736 se
-   3408 ro
-   3402 app
+   3735 se
+   3409 ro
+   3399 app
    3395 st
