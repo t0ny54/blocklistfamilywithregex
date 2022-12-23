@@ -1,50 +1,50 @@
- 695843 com
- 140024 net
-  57262 br
-  52322 org
-  49105 de
-  34204 ru
+ 696018 com
+ 140010 net
+  57279 br
+  52326 org
+  49113 de
+  34207 ru
   32440 xxx
-  32000 info
-  30613 xyz
-  23053 nl
-  19694 uk
-  19149 fr
-  13431 cc
-  13416 co
-  13320 in
-  13034 top
+  31991 info
+  30659 xyz
+  23057 nl
+  19699 uk
+  19170 fr
+  13434 cc
+  13414 co
+  13336 in
+  13025 top
   11526 eu
-   9780 biz
-   9605 me
-   9366 pl
+   9784 biz
+   9607 me
+   9364 pl
    9136 it
-   8897 cn
+   8898 cn
    8513 jp
-   8321 io
-   8127 club
+   8323 io
+   8129 club
    7259 ch
-   7190 us
-   7168 au
-   6768 es
-   6686 pro
-   6370 ca
-   6045 site
-   5896 tv
-   5586 online
-   5459 be
-   5395 lu
-   5008 vip
-   4863 cz
-   4598 app
+   7194 us
+   7171 au
+   6771 es
+   6685 pro
+   6376 ca
+   6057 site
+   5897 tv
+   5599 online
+   5460 be
+   5394 lu
+   5010 vip
+   4862 cz
+   4600 app
    4537 tk
-   4473 at
-   4174 mobi
-   4123 id
-   4031 tr
+   4474 at
+   4175 mobi
+   4131 id
+   4033 tr
    3998 dk
-   3692 se
-   3546 hu
-   3346 ro
+   3694 se
+   3547 hu
+   3347 ro
    3281 st
-   3113 live
+   3116 live
