@@ -1,50 +1,50 @@
- 696869 com
- 139892 net
-  56942 br
-  52472 org
-  49453 de
-  33862 ru
+ 696915 com
+ 139886 net
+  56951 br
+  52459 org
+  49447 de
+  33858 ru
   32414 xxx
-  32177 info
-  30251 xyz
+  32179 info
+  30265 xyz
   22772 nl
-  19485 uk
-  19099 fr
-  13478 cc
-  13449 co
-  13191 in
-  13050 top
-  11540 eu
-  10124 io
-   9745 biz
-   9601 me
-   9185 it
-   9121 cn
-   9041 pl
-   8420 jp
+  19484 uk
+  19113 fr
+  13473 cc
+  13471 co
+  13189 in
+  13028 top
+  11542 eu
+  10129 io
+   9744 biz
+   9597 me
+   9180 it
+   9117 cn
+   9043 pl
+   8423 jp
    8096 club
    7184 ch
-   7165 us
-   7092 au
-   6738 es
-   6733 pro
-   6360 ca
-   5998 site
-   5863 tv
-   5582 online
-   5403 be
+   7162 us
+   7093 au
+   6736 es
+   6734 pro
+   6365 ca
+   6012 site
+   5864 tv
+   5584 online
+   5404 be
    5392 lu
-   5194 vip
-   4818 cz
-   4602 app
-   4461 at
-   4349 tk
+   5191 vip
+   4819 cz
+   4600 app
+   4460 at
+   4345 tk
    4150 mobi
    4110 id
-   4019 tr
-   3948 dk
-   3663 se
-   3524 hu
-   3328 ro
+   4018 tr
+   3949 dk
+   3662 se
+   3525 hu
+   3332 ro
    3279 st
-   3155 live
+   3156 live
