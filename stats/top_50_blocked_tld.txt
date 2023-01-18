@@ -1,50 +1,50 @@
- 700540 com
- 139225 net
-  56962 br
-  52470 org
-  49428 de
-  34026 ru
+ 700534 com
+ 139216 net
+  56963 br
+  52318 org
+  49427 de
+  33988 ru
   32432 xxx
-  32184 info
-  30721 xyz
-  22824 nl
-  19576 uk
-  19391 fr
-  13558 cc
-  13498 co
-  13204 in
-  13042 top
-  11593 eu
-  10163 io
-   9721 biz
-   9637 me
-   9126 it
-   9121 cn
-   9071 pl
+  32179 info
+  30667 xyz
+  22819 nl
+  19569 uk
+  19548 fr
+  13562 cc
+  13489 co
+  13403 top
+  13205 in
+  11599 eu
+  10161 io
+   9722 biz
+   9639 me
+   9127 cn
+   9124 it
+   9084 pl
    8481 jp
-   8156 club
+   8157 club
    7217 ch
-   7207 us
-   7128 au
-   6862 pro
-   6768 es
-   6420 ca
-   6064 site
-   5901 tv
-   5709 online
-   5451 be
+   7210 us
+   7126 au
+   6864 pro
+   6766 es
+   6423 ca
+   6068 site
+   5899 tv
+   5712 online
+   5450 be
    5393 lu
    5170 vip
    4862 cz
-   4609 app
+   4614 app
    4480 at
    4370 tk
    4153 mobi
-   4120 id
-   4024 tr
+   4121 id
+   4023 tr
    3960 dk
    3663 se
    3532 hu
-   3338 ro
-   3297 live
+   3337 ro
+   3300 live
    3281 st
