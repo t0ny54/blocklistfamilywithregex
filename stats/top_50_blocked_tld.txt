@@ -1,30 +1,30 @@
- 700693 com
- 139221 net
+ 674248 com
+ 139222 net
   56968 br
-  52294 org
+  52282 org
   49423 de
   33936 ru
   32432 xxx
-  32182 info
-  30681 xyz
+  32169 info
+  30682 xyz
   22821 nl
   19588 uk
   19525 fr
   13561 cc
-  13494 co
+  13493 co
   13367 top
   13228 in
   11596 eu
-  10165 io
+  10164 io
+   9735 me
    9721 biz
-   9640 me
    9123 cn
    9122 it
    9059 pl
    8480 jp
    8144 club
    7218 ch
-   7212 us
+   7213 us
    7126 au
    6863 pro
    6769 es
