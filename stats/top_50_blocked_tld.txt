@@ -1,35 +1,35 @@
- 674295 com
- 139228 net
-  56968 br
-  52288 org
+ 674211 com
+ 139234 net
+  56969 br
+  52287 org
   49423 de
-  34031 ru
+  34066 ru
   32432 xxx
-  32101 info
-  30683 xyz
+  32065 info
+  30685 xyz
   22822 nl
   19588 uk
   19525 fr
   13561 cc
   13493 co
-  13367 top
-  13228 in
+  13368 top
+  13229 in
   11596 eu
-  10167 io
-   9736 me
+  10166 io
+   9738 me
    9721 biz
+   9123 it
    9123 cn
-   9122 it
-   9059 pl
+   9060 pl
    8480 jp
    8144 club
    7218 ch
    7212 us
-   7126 au
+   7128 au
    6863 pro
    6769 es
    6430 ca
-   6075 site
+   6077 site
    5902 tv
    5750 online
    5451 be
@@ -40,11 +40,11 @@
    4481 at
    4363 tk
    4153 mobi
-   4117 id
+   4120 id
    4024 tr
    3961 dk
    3664 se
    3531 hu
-   3337 ro
+   3338 ro
    3294 live
    3281 st
