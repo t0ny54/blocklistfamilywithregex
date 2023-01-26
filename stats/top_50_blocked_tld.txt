@@ -1,25 +1,25 @@
- 674211 com
- 139234 net
+ 674233 com
+ 139217 net
   56969 br
-  52287 org
+  52319 org
   49423 de
-  34066 ru
+  33937 ru
   32432 xxx
-  32065 info
+  32037 info
   30685 xyz
   22822 nl
-  19588 uk
+  19587 uk
   19525 fr
   13561 cc
   13493 co
-  13368 top
-  13229 in
+  13370 top
+  13228 in
   11596 eu
-  10166 io
-   9738 me
+  10167 io
+   9735 me
    9721 biz
-   9123 it
    9123 cn
+   9122 it
    9060 pl
    8480 jp
    8144 club
@@ -29,7 +29,7 @@
    6863 pro
    6769 es
    6430 ca
-   6077 site
+   6075 site
    5902 tv
    5750 online
    5451 be
