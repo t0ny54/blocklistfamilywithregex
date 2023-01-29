@@ -1,50 +1,50 @@
- 675328 com
- 139300 net
-  56950 br
-  52294 org
-  49403 de
-  34055 ru
+ 675248 com
+ 139233 net
+  56954 br
+  52281 org
+  49401 de
+  34052 ru
   32435 xxx
-  32013 info
-  30659 xyz
+  31997 info
+  30637 xyz
   22850 nl
-  19732 uk
-  19376 fr
-  13560 cc
-  13461 co
-  13301 top
-  13224 in
-  11578 eu
-  10170 io
-   9746 me
-   9719 biz
-   9199 it
+  19736 uk
+  19345 fr
+  13566 cc
+  13446 co
+  13285 top
+  13221 in
+  11580 eu
+  10164 io
+   9742 me
+   9718 biz
+   9193 it
    9142 cn
-   9099 pl
-   8570 jp
-   8150 club
-   7219 us
+   9077 pl
+   8571 jp
+   8151 club
+   7218 us
    7216 ch
-   7132 au
-   6878 pro
-   6763 es
+   7133 au
+   6877 pro
+   6759 es
    6421 ca
-   6148 site
-   6013 tv
-   5949 online
-   5456 be
+   6136 site
+   6014 tv
+   5940 online
+   5453 be
    5394 lu
-   5157 vip
-   4879 cz
-   4613 app
-   4477 at
+   5156 vip
+   4877 cz
+   4615 app
+   4479 at
    4380 tk
    4155 mobi
-   4127 id
-   4022 tr
+   4128 id
+   4023 tr
    3962 dk
-   3668 se
+   3667 se
    3530 hu
-   3337 ro
-   3306 live
+   3336 ro
+   3300 live
    3282 st
