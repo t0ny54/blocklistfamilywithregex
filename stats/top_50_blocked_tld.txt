@@ -1,50 +1,50 @@
- 680556 com
- 138862 net
-  56898 br
-  52604 org
-  48981 de
-  33705 ru
-  32409 xxx
-  32148 info
-  30510 xyz
-  22736 nl
-  19747 uk
-  19712 fr
-  13516 cc
-  13480 co
+ 680517 com
+ 138865 net
+  56902 br
+  52600 org
+  48980 de
+  33742 ru
+  32413 xxx
+  32145 info
+  30518 xyz
+  22702 nl
+  19745 uk
+  19739 fr
+  13519 cc
+  13478 co
   13200 in
-  13000 top
-  11486 eu
-  10222 io
-   9698 biz
-   9688 me
-   9219 it
+  13003 top
+  11487 eu
+  10221 io
+   9701 biz
+   9691 me
+   9220 it
+   9087 pl
    9073 cn
-   9072 pl
    8845 jp
-   8089 club
+   8090 club
    7239 au
    7191 ch
-   7156 us
-   6765 pro
-   6717 es
+   7157 us
+   6766 pro
+   6719 es
    6498 ca
-   6205 site
-   5993 tv
-   5931 online
+   6206 site
+   5990 tv
+   5930 online
    5557 be
    5391 lu
    5151 vip
-   4954 cz
-   4625 app
+   4955 cz
+   4623 app
    4470 at
-   4388 tk
-   4136 id
+   4385 tk
+   4137 id
    4110 mobi
    4031 tr
    3959 dk
-   3655 se
+   3654 se
    3532 hu
-   3372 live
+   3373 live
    3326 ro
    3279 st
