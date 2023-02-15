@@ -1,50 +1,50 @@
- 674883 com
- 138890 net
-  56871 br
-  52522 org
-  48976 de
-  33763 ru
+ 676686 com
+ 138883 net
+  56872 br
+  52527 org
+  48982 de
+  33870 ru
+  32457 info
   32414 xxx
-  32402 info
-  30668 xyz
-  22702 nl
-  19712 uk
-  19596 fr
-  13524 cc
-  13470 co
-  13158 in
-  12951 top
-  11470 eu
-  10241 io
-   9695 me
-   9672 biz
-   9230 it
-   9088 cn
-   9079 pl
-   8723 jp
-   8100 club
-   7228 us
-   7198 ch
-   7172 au
-   6800 pro
-   6730 es
-   6464 ca
-   6285 site
+  30685 xyz
+  22704 nl
+  19713 uk
+  19641 fr
+  13522 cc
+  13461 co
+  13159 in
+  12961 top
+  11469 eu
+  10238 io
+   9696 me
+   9671 biz
+   9231 it
+   9108 cn
+   9083 pl
+   8724 jp
+   8099 club
+   7232 us
+   7197 ch
+   7169 au
+   6802 pro
+   6731 es
+   6466 ca
+   6289 site
    5995 tv
-   5932 online
-   5554 be
+   5984 online
+   5553 be
    5388 lu
    5152 vip
-   4990 cz
-   4618 app
-   4484 at
-   4373 tk
-   4121 id
+   4989 cz
+   4625 app
+   4485 at
+   4368 tk
+   4123 id
    4107 mobi
-   4022 tr
+   4023 tr
    3957 dk
    3697 se
    3528 hu
-   3501 live
-   3324 ro
+   3502 live
+   3322 ro
    3279 st
