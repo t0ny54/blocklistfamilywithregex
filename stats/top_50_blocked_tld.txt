@@ -1,50 +1,50 @@
- 677256 com
- 138827 net
-  56875 br
-  52454 org
-  48914 de
-  33948 ru
-  32511 info
-  32412 xxx
-  30620 xyz
+ 677479 com
+ 138841 net
+  56876 br
+  52452 org
+  48910 de
+  33781 ru
+  32513 info
+  32413 xxx
+  30631 xyz
   22708 nl
   19668 uk
-  19625 fr
-  13533 cc
-  13446 co
-  13161 in
+  19594 fr
+  13543 cc
+  13430 co
+  13153 in
   12945 top
-  11461 eu
-  10226 io
-   9778 biz
-   9713 me
-   9234 it
-   9115 cn
-   9015 pl
-   8664 jp
-   8099 club
-   7299 us
+  11449 eu
+  10217 io
+   9784 biz
+   9712 me
+   9236 it
+   9111 cn
+   9004 pl
+   8666 jp
+   8102 club
+   7298 us
    7198 ch
-   7139 au
-   6845 pro
-   6722 es
-   6492 ca
-   6315 site
-   6010 tv
-   6003 online
-   5551 be
+   7140 au
+   6852 pro
+   6723 es
+   6494 ca
+   6326 site
+   6011 tv
+   5997 online
+   5550 be
    5386 lu
-   5139 vip
+   5141 vip
    4984 cz
-   4638 app
-   4481 at
-   4376 tk
-   4121 mobi
-   4107 id
+   4631 app
+   4479 at
+   4381 tk
+   4125 mobi
+   4108 id
    4018 tr
    3954 dk
    3697 se
-   3566 live
-   3525 hu
-   3318 ro
+   3563 live
+   3524 hu
+   3315 ro
    3279 st
