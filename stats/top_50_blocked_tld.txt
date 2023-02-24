@@ -1,50 +1,50 @@
- 677479 com
- 138841 net
-  56876 br
-  52452 org
-  48910 de
-  33781 ru
-  32513 info
+ 677450 com
+ 138849 net
+  56870 br
+  52595 org
+  48907 de
+  33797 ru
+  32518 info
   32413 xxx
-  30631 xyz
-  22708 nl
-  19668 uk
-  19594 fr
-  13543 cc
-  13430 co
+  30647 xyz
+  22711 nl
+  19675 uk
+  19627 fr
+  13546 cc
+  13431 co
   13153 in
-  12945 top
-  11449 eu
-  10217 io
-   9784 biz
+  12962 top
+  11450 eu
+  10213 io
+   9785 biz
    9712 me
-   9236 it
-   9111 cn
-   9004 pl
-   8666 jp
-   8102 club
-   7298 us
+   9242 it
+   9121 cn
+   8992 pl
+   8668 jp
+   8101 club
+   7300 us
    7198 ch
-   7140 au
-   6852 pro
-   6723 es
-   6494 ca
+   7141 au
+   6849 pro
+   6726 es
+   6497 ca
    6326 site
-   6011 tv
-   5997 online
-   5550 be
+   6012 tv
+   6003 online
+   5551 be
    5386 lu
-   5141 vip
-   4984 cz
-   4631 app
-   4479 at
-   4381 tk
-   4125 mobi
-   4108 id
-   4018 tr
-   3954 dk
+   5136 vip
+   4986 cz
+   4628 app
+   4482 at
+   4382 tk
+   4124 mobi
+   4102 id
+   4020 tr
+   3955 dk
    3697 se
-   3563 live
-   3524 hu
+   3566 live
+   3526 hu
    3315 ro
    3279 st
