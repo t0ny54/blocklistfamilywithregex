@@ -1,50 +1,50 @@
- 680671 com
- 138813 net
-  56842 br
-  52577 org
-  49332 de
-  33823 ru
-  32500 info
-  32415 xxx
-  30687 xyz
-  22752 nl
-  19644 uk
-  19394 fr
+ 681740 com
+ 138825 net
+  56876 br
+  52560 org
+  49330 de
+  33847 ru
+  32421 info
+  32416 xxx
+  30654 xyz
+  22751 nl
+  19642 uk
+  19337 fr
   13555 cc
-  13420 co
-  13147 in
-  12950 top
-  11459 eu
-  10273 io
-   9785 biz
-   9693 me
+  13423 co
+  13144 in
+  12996 top
+  11447 eu
+  10340 io
+   9786 biz
+   9697 me
    9209 it
-   9111 cn
-   9043 pl
+   9118 cn
+   9048 pl
    8684 jp
-   8103 club
-   7382 us
+   8107 club
+   7375 us
    7188 ch
-   7122 au
-   6857 pro
-   6722 es
-   6488 ca
-   6335 site
-   6027 online
+   7143 au
+   6872 pro
+   6727 es
+   6489 ca
+   6348 site
+   6036 online
    6010 tv
-   5552 be
+   5555 be
    5387 lu
-   5129 vip
-   4999 cz
-   4649 app
-   4477 at
-   4362 tk
-   4126 mobi
-   4111 id
-   4021 tr
-   3949 dk
+   5131 vip
+   5001 cz
+   4643 app
+   4478 at
+   4358 tk
+   4129 mobi
+   4108 id
+   4024 tr
+   3951 dk
    3691 se
-   3574 live
+   3576 live
    3518 hu
    3320 ro
    3279 st
