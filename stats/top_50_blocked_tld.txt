@@ -1,50 +1,50 @@
- 707062 com
- 141866 net
-  56925 br
-  53882 org
-  50025 de
-  34474 ru
-  33439 info
+ 706993 com
+ 141868 net
+  56926 br
+  53891 org
+  50027 de
+  34519 ru
+  33453 info
   32410 xxx
-  31973 xyz
-  24673 nl
-  20540 fr
-  20085 uk
-  14750 eu
+  31978 xyz
+  24674 nl
+  20580 fr
+  20087 uk
+  14755 eu
   13942 top
-  13752 cc
-  13729 co
-  13553 in
-  10395 io
-  10209 it
-  10207 pl
-   9931 me
-   9819 biz
+  13755 cc
+  13725 co
+  13556 in
+  10393 io
+  10230 pl
+  10210 it
+   9937 me
+   9820 biz
    9106 cn
-   8629 jp
-   8116 club
-   7539 us
-   7483 pro
-   7317 ch
-   7231 au
+   8628 jp
+   8117 club
+   7541 us
+   7487 pro
+   7318 ch
+   7228 au
    7171 es
-   6836 site
-   6815 ca
-   6523 online
+   6827 site
+   6813 ca
+   6530 online
    6094 be
    5962 tv
    5567 cz
-   5391 lu
-   5338 vip
-   5059 at
-   4734 app
+   5392 lu
+   5335 vip
+   5060 at
+   4736 app
    4515 live
-   4509 tk
-   4332 dk
-   4121 id
+   4510 tk
+   4334 dk
+   4117 id
    4097 mobi
-   4057 tr
-   3858 se
+   4051 tr
+   3859 se
    3596 hu
-   3482 ro
-   3283 st
+   3479 ro
+   3284 st
