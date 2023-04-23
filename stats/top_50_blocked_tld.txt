@@ -1,50 +1,50 @@
- 730114 com
- 144081 net
+ 730401 com
+ 144120 net
   57168 br
-  54623 org
-  51055 de
-  34860 ru
-  33881 info
-  32527 xxx
-  31544 xyz
-  25012 nl
-  22745 fr
-  20430 uk
-  14551 eu
-  14242 top
+  54663 org
+  51076 de
+  34863 ru
+  34098 info
+  32533 xxx
+  31559 xyz
+  25032 nl
+  22747 fr
+  20439 uk
+  14554 eu
+  14244 top
   14037 cc
-  13838 co
-  13552 in
-  12273 pl
-  10502 io
-  10261 it
-  10046 me
-   9760 biz
+  13846 co
+  13554 in
+  12277 pl
+  10504 io
+  10263 it
+  10050 me
+   9765 biz
    9181 jp
    9076 cn
    8094 club
-   7640 us
-   7584 pro
+   7656 us
+   7585 pro
    7483 au
-   7371 ch
+   7372 ch
    7211 es
    7166 site
-   6974 ca
-   6869 online
-   6137 be
-   6095 tv
+   6976 ca
+   6870 online
+   6131 be
+   6096 tv
    5673 cz
-   5404 lu
+   5405 lu
    5289 vip
-   4987 at
+   4984 at
    4873 app
    4740 tk
    4483 dk
-   4439 live
-   4254 mobi
+   4441 live
+   4255 mobi
    4167 id
    4064 tr
    3900 se
-   3858 ro
-   3715 hu
+   3859 ro
+   3716 hu
    3283 st
