@@ -1,50 +1,50 @@
- 692594 com
- 135531 net
-  57213 br
-  53304 org
-  48325 de
-  34714 ru
-  33425 info
+ 692531 com
+ 135520 net
+  57201 br
+  53295 org
+  48328 de
+  34718 ru
+  33421 info
   32384 xxx
-  31321 xyz
-  23281 nl
-  21377 fr
-  19982 uk
-  14075 top
-  13910 cc
+  31340 xyz
+  23283 nl
+  21398 fr
+  19980 uk
+  14070 top
+  13911 cc
   13131 co
-  12990 in
-  11416 eu
-  10734 pl
-  10530 io
-   9762 it
-   9532 me
+  12981 in
+  11414 eu
+  10762 pl
+  10538 io
+   9761 it
+   9529 me
    9280 jp
-   9273 biz
-   9074 cn
-   7974 site
-   7926 club
-   7368 ch
-   7363 au
+   9271 biz
+   9068 cn
+   7987 site
+   7925 club
+   7367 ch
+   7357 au
    7252 es
-   7160 us
-   7105 pro
+   7161 us
+   7108 pro
    6663 ca
-   6553 online
-   5846 tv
-   5651 be
+   6554 online
+   5847 tv
+   5650 be
    5396 lu
    5235 cz
-   5197 tk
-   5191 vip
-   4743 app
+   5198 tk
+   5192 vip
+   4744 app
    4274 at
-   4211 live
+   4212 live
    4185 mobi
-   4115 dk
-   4054 tr
-   4010 se
+   4112 dk
+   4051 tr
+   4011 se
    4006 id
    3564 hu
-   3276 ro
+   3275 ro
    3273 st
