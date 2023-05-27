@@ -1,50 +1,50 @@
- 693130 com
- 135603 net
-  57191 br
-  53385 org
-  48308 de
-  34722 ru
-  33362 info
+ 693155 com
+ 135612 net
+  57198 br
+  53397 org
+  48309 de
+  34740 ru
+  33372 info
   32384 xxx
-  31417 xyz
-  23286 nl
-  21480 fr
-  20009 uk
-  14159 top
-  13910 cc
-  13149 co
-  12972 in
-  11423 eu
-  10840 pl
-  10537 io
-   9769 it
-   9536 me
+  31463 xyz
+  23287 nl
+  21556 fr
+  20011 uk
+  14155 top
+  13911 cc
+  13151 co
+  12974 in
+  11406 eu
+  10850 pl
+  10542 io
+   9776 it
+   9532 me
    9311 jp
-   9287 biz
-   9094 cn
-   8471 site
-   7930 club
+   9294 biz
+   9095 cn
+   8502 site
+   7918 club
    7370 ch
-   7359 au
-   7262 es
-   7172 us
-   7119 pro
-   6663 ca
-   6589 online
+   7361 au
+   7265 es
+   7169 us
+   7120 pro
+   6666 ca
+   6598 online
    5850 tv
-   5652 be
+   5653 be
    5396 lu
    5233 cz
-   5206 tk
-   5205 vip
-   4771 app
+   5210 tk
+   5207 vip
+   4763 app
    4274 at
-   4218 live
-   4186 mobi
-   4113 dk
+   4239 live
+   4187 mobi
+   4114 dk
    4060 tr
-   4016 id
+   4012 id
    4010 se
    3564 hu
-   3278 ro
+   3277 ro
    3273 st
