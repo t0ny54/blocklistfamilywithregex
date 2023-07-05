@@ -1,35 +1,35 @@
- 707134 com
- 137099 net
-  56813 org
-  56503 br
-  48222 de
-  36946 ru
-  34829 info
-  32704 xyz
+ 707044 com
+ 137089 net
+  56821 org
+  56496 br
+  48221 de
+  36981 ru
+  34826 info
+  32695 xyz
   32516 xxx
-  23368 nl
-  22130 fr
-  20313 uk
-  14779 top
-  14370 cc
-  12748 co
+  23361 nl
+  22228 fr
+  20303 uk
+  14777 top
+  14368 cc
+  12747 co
   12649 in
-  11857 eu
+  11856 eu
   11580 pl
-  10634 io
-   9842 me
-   9717 site
+  10638 io
+   9855 me
+   9716 site
+   9598 jp
    9465 it
-   9420 jp
-   9383 biz
-   9182 cn
-   8025 club
-   7561 us
-   7448 au
+   9381 biz
+   9165 cn
+   8022 club
+   7559 us
+   7447 au
    7350 pro
-   7315 online
-   7288 ch
-   7025 es
+   7311 online
+   7283 ch
+   7022 es
    6676 ca
    6003 tv
    5662 be
@@ -37,14 +37,14 @@
    5355 vip
    5191 cz
    4825 app
-   4496 live
+   4497 live
    4421 at
-   4402 mobi
-   4170 ninja
-   4056 tr
+   4399 mobi
+   4169 ninja
+   4054 tr
    4001 dk
-   3993 tk
-   3946 id
-   3800 se
-   3600 hu
+   3992 tk
+   3948 id
+   3799 se
+   3599 hu
    3279 ro
