@@ -1,50 +1,50 @@
- 708016 com
- 137152 net
-  56811 org
-  56513 br
-  48234 de
+ 708522 com
+ 137212 net
+  56823 org
+  56531 br
+  48245 de
   36985 ru
-  34897 info
-  32723 xyz
-  32518 xxx
-  23378 nl
-  22261 fr
-  20308 uk
-  14816 top
-  14387 cc
-  12758 co
-  12645 in
-  11852 eu
-  11586 pl
-  10639 io
-   9879 me
-   9722 site
-   9601 jp
-   9469 it
-   9394 biz
+  34918 info
+  32754 xyz
+  32519 xxx
+  23402 nl
+  22269 fr
+  20340 uk
+  14844 top
+  14394 cc
+  12761 co
+  12654 in
+  11855 eu
+  11596 pl
+  10640 io
+   9896 me
+   9726 site
+   9603 jp
+   9472 it
+   9397 biz
    9198 cn
-   8036 club
-   7573 us
-   7450 au
-   7373 pro
-   7364 online
-   7288 ch
-   7034 es
-   6681 ca
-   6006 tv
-   5667 be
-   5393 lu
-   5364 vip
-   5204 cz
-   4826 app
-   4502 live
+   8043 club
+   7578 us
+   7452 au
+   7397 pro
+   7369 online
+   7291 ch
+   7038 es
+   6682 ca
+   6009 tv
+   5672 be
+   5394 lu
+   5373 vip
+   5206 cz
+   4827 app
+   4508 live
+   4423 mobi
    4422 at
-   4420 mobi
    4170 ninja
    4049 tr
-   4008 tk
+   4014 tk
    4003 dk
    3947 id
    3799 se
-   3604 hu
-   3283 ro
+   3605 hu
+   3284 ro
