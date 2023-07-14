@@ -1,50 +1,50 @@
- 710594 com
- 137421 net
-  56882 org
-  56584 br
-  48300 de
-  36999 ru
-  34918 info
-  32840 xyz
+ 710477 com
+ 137431 net
+  56885 org
+  56589 br
+  48303 de
+  37003 ru
+  34916 info
+  32841 xyz
   32530 xxx
-  23460 nl
-  22301 fr
-  20414 uk
-  14875 top
-  14418 cc
-  12938 co
+  23464 nl
+  22304 fr
+  20416 uk
+  14877 top
+  14419 cc
+  12960 co
   12675 in
-  11885 eu
-  11624 pl
+  11887 eu
+  11625 pl
   10647 io
-   9954 me
-   9744 site
-   9607 jp
+   9951 me
+   9745 site
+   9608 jp
    9493 it
-   9407 biz
+   9408 biz
    9201 cn
-   8064 club
-   7598 us
+   8065 club
+   7600 us
    7465 au
-   7450 pro
-   7403 online
+   7449 pro
+   7411 online
    7296 ch
    7050 es
-   6689 ca
-   6022 tv
-   5684 be
+   6690 ca
+   6021 tv
+   5683 be
    5395 lu
    5383 vip
-   5215 cz
+   5217 cz
    4830 app
    4545 live
    4436 mobi
    4425 at
    4276 page
    4170 ninja
-   4088 tk
-   4050 tr
-   4007 dk
+   4102 tk
+   4052 tr
+   4008 dk
    3949 id
    3800 se
-   3611 hu
+   3612 hu
