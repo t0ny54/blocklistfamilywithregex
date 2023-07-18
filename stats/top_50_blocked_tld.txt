@@ -1,50 +1,50 @@
- 710618 com
- 137473 net
-  56849 org
-  56592 br
-  48308 de
-  36978 ru
-  34803 info
-  32852 xyz
-  32528 xxx
-  23462 nl
-  22311 fr
-  20419 uk
-  14888 top
-  14431 cc
-  13009 co
-  12682 in
-  11866 eu
+ 710845 com
+ 137508 net
+  56846 org
+  56593 br
+  48314 de
+  36992 ru
+  34797 info
+  32863 xyz
+  32526 xxx
+  23463 nl
+  22313 fr
+  20425 uk
+  14895 top
+  14435 cc
+  13026 co
+  12687 in
+  11885 eu
   11628 pl
   10653 io
-   9960 me
+   9961 me
    9745 site
-   9494 it
-   9431 jp
-   9402 biz
-   9206 cn
-   8065 club
-   7600 us
-   7465 au
-   7439 pro
-   7405 online
-   7296 ch
-   7054 es
-   6693 ca
-   6026 tv
-   5686 be
+   9613 jp
+   9495 it
+   9407 biz
+   9209 cn
+   8068 club
+   7602 us
+   7468 au
+   7438 pro
+   7410 online
+   7295 ch
+   7058 es
+   6695 ca
+   6030 tv
+   5692 be
    5396 lu
-   5382 vip
-   5218 cz
-   4830 app
-   4545 live
+   5383 vip
+   5221 cz
+   4831 app
+   4549 live
    4425 at
-   4421 mobi
+   4409 mobi
    4276 page
    4170 ninja
-   4143 tk
+   4163 tk
    4054 tr
    4009 dk
-   3948 id
-   3841 se
+   3950 id
+   3843 se
    3612 hu
