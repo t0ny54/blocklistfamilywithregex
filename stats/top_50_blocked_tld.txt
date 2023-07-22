@@ -1,50 +1,50 @@
- 711726 com
- 137625 net
-  56889 org
-  56611 br
-  48331 de
-  37001 ru
-  34784 info
-  32901 xyz
+ 712105 com
+ 137665 net
+  56845 org
+  56625 br
+  48336 de
+  37034 ru
+  34809 info
+  32922 xyz
   32529 xxx
-  23482 nl
-  22329 fr
-  20461 uk
-  14933 top
-  14416 cc
-  13108 co
-  12692 in
-  11894 eu
-  11632 pl
+  23489 nl
+  22333 fr
+  20474 uk
+  14954 top
+  14427 cc
+  13132 co
+  12700 in
+  11897 eu
+  11636 pl
   10660 io
-   9983 me
-   9756 site
-   9500 it
-   9436 jp
-   9411 biz
-   9212 cn
-   8084 club
+   9982 me
+   9762 site
+   9503 it
+   9437 jp
+   9414 biz
+   9213 cn
+   8088 club
    7613 us
-   7470 au
-   7454 pro
-   7447 online
+   7473 au
+   7460 online
+   7453 pro
    7300 ch
-   7066 es
+   7068 es
    6701 ca
    6034 tv
-   5696 be
+   5698 be
+   5396 vip
    5396 lu
-   5391 vip
-   5223 cz
-   4834 app
-   4561 live
-   4428 at
-   4411 mobi
+   5224 cz
+   4835 app
+   4564 live
+   4430 at
+   4413 mobi
    4276 page
-   4235 tk
+   4252 tk
    4170 ninja
    4056 tr
-   4010 dk
+   4011 dk
    3956 id
    3851 se
-   3613 hu
+   3615 hu
