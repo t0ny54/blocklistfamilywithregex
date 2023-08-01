@@ -1,16 +1,16 @@
- 710433 com
- 137567 net
-  56688 org
+ 710273 com
+ 137542 net
+  56675 org
   56565 br
   48328 de
-  37149 ru
-  34675 info
-  32862 xyz
+  37165 ru
+  34657 info
+  32859 xyz
   32530 xxx
   23464 nl
   22341 fr
   20147 uk
-  14984 top
+  14983 top
   14430 cc
   13163 co
   12677 in
@@ -21,12 +21,12 @@
    9765 site
    9488 it
    9438 jp
-   9409 biz
-   9212 cn
+   9408 biz
+   9215 cn
    8080 club
    7600 us
-   7502 online
-   7440 pro
+   7501 online
+   7439 pro
    7407 au
    7302 ch
    7054 es
@@ -46,5 +46,5 @@
    4043 tr
    4010 dk
    3946 id
-   3843 se
+   3842 se
    3604 hu
