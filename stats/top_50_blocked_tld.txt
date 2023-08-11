@@ -1,50 +1,50 @@
- 711901 com
- 138053 net
-  56858 org
-  56628 br
-  48375 de
-  37409 ru
-  34978 info
-  32876 xyz
+ 711993 com
+ 138071 net
+  56860 org
+  56637 br
+  48381 de
+  37450 ru
+  34981 info
+  32889 xyz
   32584 xxx
-  23447 nl
-  22375 fr
-  20216 uk
-  15018 top
+  23451 nl
+  22378 fr
+  20222 uk
+  15026 top
   14460 cc
-  13205 co
-  12767 in
+  13206 co
+  12769 in
   11900 eu
   11661 pl
   10681 io
-   9997 me
+   9999 me
    9828 site
-   9499 it
+   9501 it
    9452 jp
-   9427 biz
-   9203 cn
-   8104 club
-   7602 us
-   7537 online
-   7525 pro
-   7421 au
-   7317 ch
-   7069 es
-   6663 ca
+   9428 biz
+   9207 cn
+   8107 club
+   7605 us
+   7549 online
+   7527 pro
+   7425 au
+   7318 ch
+   7070 es
+   6664 ca
    6049 tv
    5721 be
-   5397 vip
+   5399 vip
    5396 lu
-   5243 cz
+   5244 cz
    4840 app
-   4595 live
+   4597 live
    4491 mobi
-   4437 at
-   4334 tk
+   4438 at
+   4343 tk
    4278 page
    4171 ninja
    4040 tr
-   4018 dk
-   3958 id
-   3848 se
-   3639 hu
+   4019 dk
+   3959 id
+   3855 se
+   3640 hu
