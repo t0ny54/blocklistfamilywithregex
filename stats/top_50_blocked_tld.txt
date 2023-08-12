@@ -1,50 +1,50 @@
- 711993 com
- 138071 net
-  56860 org
-  56637 br
-  48381 de
-  37450 ru
-  34981 info
-  32889 xyz
-  32584 xxx
-  23451 nl
-  22378 fr
-  20222 uk
-  15026 top
-  14460 cc
-  13206 co
-  12769 in
-  11900 eu
-  11661 pl
+ 712089 com
+ 138075 net
+  56867 org
+  56649 br
+  48387 de
+  37442 ru
+  34979 info
+  32897 xyz
+  32585 xxx
+  23453 nl
+  22381 fr
+  20226 uk
+  15031 top
+  14465 cc
+  13207 co
+  12775 in
+  11903 eu
+  11664 pl
   10681 io
-   9999 me
-   9828 site
-   9501 it
-   9452 jp
-   9428 biz
-   9207 cn
-   8107 club
-   7605 us
-   7549 online
+  10001 me
+   9821 site
+   9508 it
+   9446 jp
+   9429 biz
+   9208 cn
+   8106 club
+   7607 us
+   7557 online
    7527 pro
-   7425 au
-   7318 ch
+   7427 au
+   7319 ch
    7070 es
    6664 ca
-   6049 tv
-   5721 be
-   5399 vip
+   6050 tv
+   5724 be
+   5400 vip
    5396 lu
-   5244 cz
+   5247 cz
    4840 app
-   4597 live
-   4491 mobi
-   4438 at
-   4343 tk
+   4599 live
+   4492 mobi
+   4439 at
+   4354 tk
    4278 page
    4171 ninja
-   4040 tr
-   4019 dk
-   3959 id
+   4041 tr
+   4020 dk
+   3964 id
    3855 se
-   3640 hu
+   3635 hu
