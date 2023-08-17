@@ -1,50 +1,50 @@
- 712548 com
- 138133 net
-  56865 org
-  56667 br
-  48401 de
-  37393 ru
-  34964 info
-  32896 xyz
-  32587 xxx
+ 712538 com
+ 138127 net
+  56891 org
+  56669 br
+  48410 de
+  37312 ru
+  34995 info
+  32893 xyz
+  32585 xxx
   23446 nl
-  22390 fr
+  22387 fr
   20242 uk
-  15004 top
-  14467 cc
-  13217 co
-  12784 in
-  11904 eu
+  14951 top
+  14462 cc
+  13221 co
+  12785 in
+  11903 eu
   11671 pl
   10689 io
-  10009 me
-   9828 site
+  10011 me
+   9824 site
    9515 it
-   9456 jp
+   9457 jp
    9425 biz
-   9224 cn
-   8106 club
+   9208 cn
+   8099 club
    7610 us
-   7574 online
-   7528 pro
+   7569 online
+   7530 pro
    7431 au
    7322 ch
-   7069 es
-   6670 ca
-   6049 tv
-   5724 be
-   5399 vip
+   7068 es
+   6671 ca
+   6050 tv
+   5723 be
+   5397 vip
    5396 lu
-   5257 cz
+   5258 cz
    4840 app
-   4612 live
-   4488 mobi
+   4610 live
+   4485 mobi
    4440 at
-   4394 tk
+   4403 tk
    4278 page
    4170 ninja
    4045 tr
    4021 dk
    3972 id
-   3856 se
-   3638 hu
+   3855 se
+   3639 hu
