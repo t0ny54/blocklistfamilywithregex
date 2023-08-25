@@ -1,50 +1,50 @@
- 713331 com
- 138191 net
-  56794 org
-  56693 br
-  48416 de
-  37273 ru
-  34977 info
-  32904 xyz
+ 713297 com
+ 138208 net
+  56781 org
+  56700 br
+  48419 de
+  37266 ru
+  34972 info
+  32905 xyz
   32587 xxx
-  23464 nl
-  22401 fr
-  20269 uk
+  23467 nl
+  22402 fr
+  20264 uk
   14935 top
-  14028 cc
-  13234 co
-  12797 in
+  14478 cc
+  13228 co
+  12799 in
   11905 eu
-  11675 pl
+  11676 pl
   10690 io
-  10020 me
-   9823 site
-   9517 it
-   9425 biz
-   9396 jp
-   9209 cn
-   8109 club
-   7620 us
-   7600 online
-   7545 pro
+  10022 me
+   9824 site
+   9520 it
+   9461 jp
+   9422 biz
+   9210 cn
+   8110 club
+   7621 us
+   7601 online
+   7544 pro
    7439 au
-   7326 ch
+   7329 ch
    7074 es
-   6673 ca
-   6051 tv
-   5730 be
+   6674 ca
+   6052 tv
+   5731 be
    5399 vip
    5396 lu
    5261 cz
-   4841 app
+   4842 app
    4671 mobi
-   4618 live
-   4441 at
-   4440 tk
+   4617 live
+   4442 at
+   4441 tk
    4278 page
    4171 ninja
    4050 tr
-   4021 dk
+   4022 dk
    3978 id
    3856 se
    3642 hu
