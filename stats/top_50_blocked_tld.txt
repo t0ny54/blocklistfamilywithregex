@@ -1,50 +1,50 @@
- 656440 com
- 114119 net
+ 656323 com
+ 114122 net
   57110 br
-  46261 org
-  41604 de
-  33725 ru
-  26060 info
-  22601 nl
-  21447 fr
-  18606 uk
-  18534 xyz
+  46270 org
+  41603 de
+  33758 ru
+  26045 info
+  22602 nl
+  21448 fr
+  18609 uk
+  18531 xyz
   12555 cc
-  11991 top
-  11392 pl
+  11981 top
+  11391 pl
   10525 io
-  10515 co
-  10180 in
-  10126 eu
-   9226 jp
-   8946 it
+  10514 co
+  10175 in
+  10127 eu
+   9227 jp
+   8942 it
    7651 me
-   7489 site
+   7487 site
    7426 cn
-   7244 au
-   7171 biz
+   7245 au
+   7162 biz
    7063 ch
-   6798 es
-   6373 pro
-   6038 online
+   6799 es
+   6372 pro
+   6037 online
    5685 ca
-   5497 us
+   5498 us
    5478 be
-   5442 xxx
+   5441 xxx
    5395 lu
    5196 cz
-   5001 tv
-   4959 club
-   4452 tk
+   5000 tv
+   4954 club
+   4448 tk
    4263 page
-   4205 at
+   4206 at
    4185 tr
    4150 ninja
    3988 id
    3881 dk
-   3773 live
+   3771 live
    3656 se
-   3628 mobi
+   3627 mobi
    3600 hu
    3278 st
    3216 ro
