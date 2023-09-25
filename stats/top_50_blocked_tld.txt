@@ -1,49 +1,49 @@
- 657719 com
- 114246 net
-  57142 br
-  46277 org
-  41609 de
-  33745 ru
-  26058 info
-  22620 nl
-  21503 fr
-  18662 uk
-  18422 xyz
-  12576 cc
-  12032 top
-  11400 pl
-  10527 io
-  10522 co
-  10178 in
+ 657861 com
+ 114249 net
+  57147 br
+  46354 org
+  41614 de
+  33779 ru
+  26055 info
+  22625 nl
+  21507 fr
+  18663 uk
+  18435 xyz
+  12578 cc
+  12036 top
+  11401 pl
+  10542 io
+  10523 co
+  10180 in
   10129 eu
-   9306 jp
+   9308 jp
    8955 it
-   7639 me
-   7494 site
+   7641 me
+   7497 site
    7432 cn
    7259 au
-   7136 biz
+   7139 biz
    7068 ch
    6813 es
-   6409 pro
-   6068 online
-   5698 ca
-   5468 be
-   5445 us
-   5440 xxx
+   6408 pro
+   6070 online
+   5700 ca
+   5469 be
+   5446 us
+   5441 xxx
    5396 lu
-   5201 cz
-   5008 tv
-   4955 club
+   5202 cz
+   5009 tv
+   4956 club
    4462 tk
    4264 page
    4207 at
-   4188 tr
+   4191 tr
    4151 ninja
-   3999 id
-   3881 dk
+   4000 id
+   3882 dk
    3813 live
-   3657 se
+   3658 se
    3637 mobi
    3598 hu
    3278 st
