@@ -1,49 +1,49 @@
- 657861 com
- 114249 net
+ 657898 com
+ 114337 net
   57147 br
-  46354 org
-  41614 de
-  33779 ru
-  26055 info
-  22625 nl
-  21507 fr
-  18663 uk
+  46363 org
+  41615 de
+  33826 ru
+  26037 info
+  22629 nl
+  21505 fr
+  18666 uk
   18435 xyz
   12578 cc
   12036 top
-  11401 pl
-  10542 io
-  10523 co
-  10180 in
-  10129 eu
+  11400 pl
+  10540 io
+  10519 co
+  10182 in
+  10130 eu
    9308 jp
-   8955 it
-   7641 me
+   8954 it
+   7640 me
    7497 site
-   7432 cn
+   7418 cn
    7259 au
    7139 biz
    7068 ch
    6813 es
-   6408 pro
-   6070 online
-   5700 ca
-   5469 be
-   5446 us
+   6409 pro
+   6069 online
+   5701 ca
+   5468 be
+   5447 us
    5441 xxx
    5396 lu
    5202 cz
-   5009 tv
+   5010 tv
    4956 club
-   4462 tk
+   4463 tk
    4264 page
    4207 at
-   4191 tr
+   4192 tr
    4151 ninja
    4000 id
    3882 dk
-   3813 live
-   3658 se
+   3815 live
+   3660 se
    3637 mobi
    3598 hu
    3278 st
