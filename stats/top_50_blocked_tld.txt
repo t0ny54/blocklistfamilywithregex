@@ -1,39 +1,39 @@
- 657976 com
- 114331 net
-  57153 br
-  46381 org
-  41614 de
-  33797 ru
-  26031 info
+ 658014 com
+ 114343 net
+  57157 br
+  46386 org
+  41616 de
+  33783 ru
+  26026 info
   22632 nl
-  21509 fr
-  18673 uk
-  18434 xyz
-  12580 cc
+  21515 fr
+  18676 uk
+  18442 xyz
+  12583 cc
   12038 top
-  11400 pl
-  10541 io
-  10518 co
-  10180 in
-  10132 eu
-   9309 jp
-   8956 it
-   7646 me
-   7497 site
-   7417 cn
-   7258 au
+  11398 pl
+  10540 io
+  10516 co
+  10182 in
+  10133 eu
+   9482 jp
+   8959 it
+   7647 me
+   7501 site
+   7432 cn
+   7260 au
    7138 biz
    7067 ch
    6814 es
    6412 pro
-   6071 online
-   5702 ca
+   6074 online
+   5703 ca
    5470 be
-   5450 us
-   5441 xxx
+   5451 us
+   5442 xxx
    5396 lu
    5202 cz
-   5011 tv
+   5012 tv
    4957 club
    4465 tk
    4264 page
@@ -41,10 +41,10 @@
    4192 tr
    4150 ninja
    4001 id
-   3882 dk
+   3883 dk
    3818 live
    3660 se
    3637 mobi
-   3598 hu
+   3599 hu
    3278 st
    3221 ro
