@@ -1,41 +1,41 @@
- 658242 com
- 114344 net
-  57165 br
-  46383 org
-  41618 de
-  33791 ru
-  26022 info
-  22634 nl
-  21523 fr
-  18680 uk
-  18446 xyz
-  12587 cc
-  12043 top
-  11400 pl
+ 658562 com
+ 114354 net
+  57175 br
+  46384 org
+  41614 de
+  33807 ru
+  25994 info
+  22632 nl
+  21530 fr
+  18693 uk
+  18463 xyz
+  12592 cc
+  12051 top
+  11401 pl
   10542 io
-  10516 co
-  10182 in
+  10513 co
+  10181 in
   10138 eu
-   9485 jp
-   8960 it
-   7651 me
-   7500 site
-   7434 cn
-   7262 au
-   7136 biz
-   7067 ch
-   6814 es
-   6419 pro
-   6082 online
-   5704 ca
-   5472 be
-   5451 us
-   5442 xxx
+   9317 jp
+   8962 it
+   7650 me
+   7510 site
+   7419 cn
+   7264 au
+   7140 biz
+   7069 ch
+   6817 es
+   6424 pro
+   6085 online
+   5705 ca
+   5475 be
+   5454 us
+   5444 xxx
    5396 lu
    5202 cz
-   5013 tv
-   4957 club
-   4466 tk
+   5016 tv
+   4961 club
+   4469 tk
    4264 page
    4207 at
    4193 tr
@@ -43,8 +43,8 @@
    4001 id
    3884 dk
    3823 live
-   3661 se
+   3660 se
    3637 mobi
-   3599 hu
+   3600 hu
    3278 st
-   3222 ro
+   3223 ro
