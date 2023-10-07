@@ -1,28 +1,28 @@
- 660327 com
- 114452 net
+ 658290 com
+ 114455 net
   57194 br
-  46404 org
+  46403 org
   41635 de
-  33936 ru
-  26084 info
+  33938 ru
+  26094 info
   22453 nl
   21544 fr
   18743 uk
-  18576 xyz
-  12624 cc
-  12062 top
-  11641 pl
+  18575 xyz
+  12625 cc
+  12063 top
+  11539 pl
   10536 io
   10526 co
   10182 in
   10180 eu
-   9502 jp
+   9332 jp
    8985 it
-   7626 me
+   7629 me
    7497 site
    7448 cn
    7271 au
-   7145 biz
+   7144 biz
    7075 ch
    6832 es
    6460 pro
@@ -40,7 +40,7 @@
    4211 at
    4197 tr
    4148 ninja
-   4002 id
+   4001 id
    3886 dk
    3855 live
    3683 se
