@@ -1,43 +1,43 @@
- 710546 com
- 118072 net
-  59463 br
-  49281 org
-  42910 de
-  34809 ru
-  26627 info
-  23582 nl
-  20845 uk
-  20547 fr
-  19336 xyz
+ 710491 com
+ 118077 net
+  59462 br
+  49283 org
+  42912 de
+  34838 ru
+  26625 info
+  23567 nl
+  20843 uk
+  20535 fr
+  19345 xyz
   12729 cc
   12405 top
-  11610 pl
-  11424 co
-  10765 io
+  11609 pl
+  11442 co
+  10763 io
   10727 in
-  10655 eu
-   9669 it
-   9247 jp
+  10647 eu
+   9667 it
+   9232 jp
    8390 dev
-   8027 site
-   7875 me
-   7820 au
-   7490 cn
+   8026 site
+   7859 me
+   7821 au
+   7489 cn
    7385 ch
    7362 biz
-   7350 es
-   6730 online
-   6544 pro
-   6231 ca
-   6009 be
-   5908 gay
+   7349 es
+   6727 online
+   6545 pro
+   6230 ca
+   5999 be
+   5904 gay
    5659 xxx
    5655 us
-   5539 cz
+   5530 cz
    5518 tk
    5426 lu
    5347 sexy
-   5237 tv
+   5239 tv
    5209 club
    4290 at
    4288 page
@@ -45,6 +45,6 @@
    4150 ninja
    4113 dk
    4101 id
-   4015 live
+   4014 live
    3932 se
-   3930 hu
+   3932 hu
