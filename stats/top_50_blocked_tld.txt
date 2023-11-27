@@ -1,50 +1,50 @@
- 707714 com
- 117860 net
-  59390 br
-  49199 org
-  42850 de
-  34735 ru
-  26589 info
-  23517 nl
-  20795 uk
-  20521 fr
-  19251 xyz
-  12695 cc
-  12382 top
-  11552 pl
-  11479 co
-  10758 io
-  10710 in
-  10634 eu
-   9639 it
-   9396 jp
-   8394 dev
-   8003 site
-   7837 me
-   7793 au
-   7480 cn
-   7376 ch
-   7336 biz
-   7328 es
-   6654 online
-   6528 pro
+ 708087 com
+ 117938 net
+  59401 br
+  49220 org
+  42849 de
+  34708 ru
+  26602 info
+  23504 nl
+  20798 uk
+  20518 fr
+  19331 xyz
+  12706 cc
+  12390 top
+  11539 pl
+  11489 co
+  10762 io
+  10714 in
+  10633 eu
+   9627 it
+   9406 jp
+   8418 dev
+   7996 site
+   7847 me
+   7794 au
+   7478 cn
+   7377 ch
+   7343 biz
+   7329 es
+   6679 online
+   6540 pro
    6210 ca
    5980 be
-   5717 gay
+   5727 gay
    5644 xxx
-   5636 us
+   5638 us
    5520 cz
-   5484 tk
+   5483 tk
    5424 lu
-   5306 sexy
-   5221 tv
-   5193 club
-   4287 page
+   5310 sexy
+   5237 tv
+   5201 club
+   4288 page
    4286 at
-   4272 tr
-   4150 ninja
+   4274 tr
+   4151 ninja
    4112 dk
    4093 id
-   3999 live
+   4016 live
    3924 se
-   3915 hu
+   3914 hu
