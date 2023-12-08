@@ -1,50 +1,50 @@
- 611112 com
- 109543 net
+ 611092 com
+ 109537 net
   55873 br
-  44490 org
+  44483 org
   40666 de
-  31925 ru
-  24433 info
-  21045 nl
-  18905 fr
+  31893 ru
+  24430 info
+  21046 nl
+  18907 fr
   17596 uk
-  16539 xyz
-  11764 cc
-  10950 pl
-  10785 top
-  10560 io
+  16546 xyz
+  11761 cc
+  10951 pl
+  10789 top
+  10559 io
   10094 co
-   9566 in
-   9315 eu
-   9181 jp
-   8300 it
-   7455 cn
+   9578 in
+   9316 eu
+   9182 jp
+   8301 it
+   7454 cn
    7030 au
-   7021 site
-   6913 me
-   6811 biz
+   7023 site
+   6946 me
+   6812 biz
    6727 ch
    6363 es
-   5571 pro
+   5572 pro
    5523 ca
    5385 lu
    5289 xxx
    5207 us
    5044 be
-   4972 cz
-   4733 tv
-   4456 club
-   4244 online
+   4973 cz
+   4735 tv
+   4455 club
+   4246 online
    4240 page
-   4199 dev
+   4198 dev
    4138 ninja
    4033 at
    3998 tr
    3930 id
    3809 dk
-   3646 live
+   3649 live
    3516 se
    3491 tk
    3452 hu
-   3420 mobi
+   3421 mobi
    3265 st
