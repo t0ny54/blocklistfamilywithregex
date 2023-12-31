@@ -1,50 +1,50 @@
- 656486 com
- 113160 net
+ 656523 com
+ 113171 net
   58807 br
-  47272 org
-  42484 de
-  34374 ru
-  26008 info
-  22786 nl
-  19977 fr
+  47273 org
+  42499 de
+  34412 ru
+  26010 info
+  22795 nl
+  19980 fr
   19184 uk
-  18697 xyz
-  12726 cc
-  12093 top
-  11404 pl
+  18710 xyz
+  12730 cc
+  12096 top
+  11411 pl
   10631 co
   10363 in
-  10169 eu
-   9364 it
-   9319 jp
+  10171 eu
+   9365 it
+   9151 jp
    8811 io
    7602 site
    7476 cn
    7400 au
-   7252 ch
-   7232 me
+   7253 ch
+   7230 me
    7216 es
    7175 biz
    7148 dev
-   6403 pro
+   6402 pro
    6286 online
    5818 ca
-   5606 be
+   5607 be
    5504 xxx
    5422 lu
    5387 cz
-   5347 us
+   5346 us
    5310 tk
    5066 club
-   5054 tv
+   5055 tv
    4982 sexy
    4234 at
    4152 ninja
    4089 tr
    4012 id
    4005 dk
-   3922 live
-   3892 se
+   3924 live
+   3907 se
    3773 hu
    3580 mobi
    3342 ro
