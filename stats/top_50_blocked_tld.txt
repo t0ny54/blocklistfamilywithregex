@@ -1,42 +1,42 @@
- 656538 com
- 113335 net
+ 656632 com
+ 113323 net
   58716 br
-  47397 org
+  47386 org
   42387 de
-  34378 ru
-  26046 info
+  34220 ru
+  26043 info
   22689 nl
   19941 fr
   19108 uk
   18654 xyz
-  12551 cc
-  12062 top
+  12564 cc
+  12061 top
   11408 pl
-  10615 co
-  10347 in
-  10199 eu
-   9350 it
-   9144 jp
-   8810 io
-   7591 site
+  10609 co
+  10348 in
+  10198 eu
+   9349 it
+   9310 jp
+   8811 io
+   7595 site
    7451 cn
    7391 au
    7245 ch
    7216 es
-   7197 me
+   7202 me
    7169 biz
-   7128 dev
-   6399 pro
-   6251 online
+   7127 dev
+   6398 pro
+   6252 online
    5798 ca
    5606 be
    5494 xxx
    5423 lu
    5388 cz
-   5335 us
+   5337 us
    5202 tk
-   5058 club
-   5045 tv
+   5059 club
+   5046 tv
    4977 sexy
    4232 at
    4152 ninja
@@ -46,5 +46,5 @@
    3915 live
    3835 se
    3754 hu
-   3583 mobi
+   3584 mobi
    3334 ro
