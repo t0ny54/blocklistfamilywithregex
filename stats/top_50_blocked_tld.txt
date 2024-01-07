@@ -1,30 +1,30 @@
- 656609 com
- 113323 net
+ 656607 com
+ 113322 net
   58716 br
   47386 org
   42386 de
-  34216 ru
+  34213 ru
   26040 info
   22689 nl
   19939 fr
-  19108 uk
+  19106 uk
   18650 xyz
   12564 cc
-  12063 top
+  12061 top
   11408 pl
   10609 co
-  10348 in
-  10198 eu
+  10347 in
+  10197 eu
    9349 it
-   9144 jp
+   9143 jp
    8811 io
    7595 site
    7465 cn
    7391 au
    7245 ch
    7216 es
-   7198 me
-   7169 biz
+   7197 me
+   7168 biz
    7127 dev
    6398 pro
    6252 online
@@ -44,7 +44,7 @@
    4004 id
    4004 dk
    3915 live
-   3836 se
+   3837 se
    3754 hu
    3584 mobi
    3334 ro
