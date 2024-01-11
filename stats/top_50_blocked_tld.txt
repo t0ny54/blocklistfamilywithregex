@@ -1,50 +1,50 @@
- 657245 com
- 113348 net
-  58715 br
-  47403 org
-  42468 de
-  34200 ru
-  26045 info
-  22683 nl
-  19921 fr
-  19159 uk
-  18690 xyz
+ 657200 com
+ 113346 net
+  58710 br
+  47401 org
+  42472 de
+  34181 ru
+  26059 info
+  22676 nl
+  19920 fr
+  19163 uk
+  18686 xyz
   12579 cc
-  12077 top
-  11411 pl
-  10599 co
-  10345 in
+  12076 top
+  11415 pl
+  10646 co
+  10343 in
   10191 eu
-   9337 it
+   9333 it
    9145 jp
    8811 io
-   7592 site
-   7459 cn
+   7591 site
+   7456 cn
    7398 au
    7242 ch
-   7215 es
-   7174 biz
+   7214 es
+   7172 biz
    7113 dev
-   7100 me
+   7083 me
    6412 pro
-   6272 online
+   6269 online
    5786 ca
    5588 be
    5498 xxx
    5423 lu
    5380 cz
-   5354 us
+   5352 us
    5064 club
-   5045 tv
-   5041 sexy
+   5043 tv
+   5036 sexy
    5019 tk
    4231 at
-   4151 ninja
-   4081 tr
+   4150 ninja
+   4080 tr
    4006 id
    4003 dk
-   3916 live
-   3849 se
+   3913 live
+   3848 se
    3754 hu
-   3587 mobi
+   3586 mobi
    3332 ro
