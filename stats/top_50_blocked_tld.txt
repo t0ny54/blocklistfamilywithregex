@@ -1,50 +1,50 @@
- 657571 com
- 113348 net
-  58717 br
-  47401 org
-  42479 de
-  34153 ru
-  26070 info
-  22671 nl
-  19922 fr
-  19168 uk
-  18693 xyz
-  12584 cc
-  12075 top
-  11412 pl
-  10650 co
-  10331 in
-  10196 eu
-   9337 it
-   9311 jp
+ 657746 com
+ 113371 net
+  58730 br
+  47410 org
+  42475 de
+  34178 ru
+  26078 info
+  22678 nl
+  19925 fr
+  19171 uk
+  18701 xyz
+  12585 cc
+  12080 top
+  11415 pl
+  10651 co
+  10330 in
+  10198 eu
+   9342 it
+   9146 jp
    8810 io
-   7591 site
-   7454 cn
+   7595 site
+   7457 cn
    7399 au
-   7242 ch
+   7244 ch
    7215 es
-   7168 biz
+   7170 biz
    7121 dev
-   7078 me
-   6414 pro
-   6279 online
-   5786 ca
+   7079 me
+   6417 pro
+   6285 online
+   5787 ca
    5588 be
-   5498 xxx
+   5500 xxx
    5423 lu
    5382 cz
    5355 us
-   5064 club
-   5052 sexy
-   5044 tv
+   5066 club
+   5056 sexy
+   5045 tv
    5019 tk
    4232 at
    4150 ninja
    4080 tr
    4006 id
    4004 dk
-   3912 live
-   3847 se
+   3921 live
+   3848 se
    3754 hu
-   3586 mobi
-   3332 ro
+   3590 mobi
+   3335 ro
