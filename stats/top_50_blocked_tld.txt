@@ -1,50 +1,50 @@
- 657368 com
- 113372 net
-  58733 br
-  47411 org
-  42466 de
-  34163 ru
-  26073 info
-  22676 nl
-  19922 fr
+ 657358 com
+ 113371 net
+  58729 br
+  47419 org
+  42457 de
+  34190 ru
+  26069 info
+  22670 nl
+  19921 fr
   19163 uk
-  18705 xyz
-  12598 cc
-  12079 top
+  18699 xyz
+  12597 cc
+  12076 top
   11415 pl
-  10647 co
+  10652 co
   10333 in
-  10194 eu
-   9337 it
+  10195 eu
+   9333 it
    9146 jp
    8811 io
    7600 site
    7455 cn
-   7396 au
-   7244 ch
-   7217 es
-   7178 biz
+   7394 au
+   7243 ch
+   7216 es
+   7173 biz
    7125 dev
-   7080 me
-   6430 pro
+   7078 me
+   6429 pro
    6313 online
-   5779 ca
+   5780 ca
    5587 be
    5499 xxx
    5423 lu
-   5382 cz
-   5355 us
-   5066 club
-   5060 sexy
-   5047 tv
+   5379 cz
+   5301 us
+   5065 club
+   5056 sexy
+   5048 tv
    5013 tk
    4233 at
    4150 ninja
    4080 tr
    4006 dk
-   4005 id
-   3919 live
+   4004 id
+   3886 live
    3850 se
-   3753 hu
-   3590 mobi
+   3752 hu
+   3586 mobi
    3336 ro
