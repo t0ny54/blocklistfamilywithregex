@@ -1,36 +1,36 @@
- 657447 com
- 113356 net
+ 657466 com
+ 113346 net
   58731 br
-  47416 org
+  47415 org
   42460 de
-  34049 ru
+  34074 ru
   26077 info
   22665 nl
   19922 fr
-  19163 uk
-  18706 xyz
-  12596 cc
-  12040 top
-  11417 pl
-  10654 co
-  10314 in
+  19162 uk
+  18708 xyz
+  12594 cc
+  12038 top
+  11418 pl
+  10653 co
+  10319 in
   10194 eu
    9329 it
-   9149 jp
+   9147 jp
    8811 io
    7600 site
    7460 cn
    7394 au
    7243 ch
    7212 es
-   7154 biz
+   7156 biz
    7124 dev
-   7071 me
-   6457 pro
+   7069 me
+   6436 pro
    6314 online
    5780 ca
    5586 be
-   5500 xxx
+   5512 xxx
    5423 lu
    5375 cz
    5235 us
@@ -44,7 +44,7 @@
    4007 dk
    4004 id
    3850 se
-   3847 live
+   3845 live
    3751 hu
    3587 mobi
    3336 ro
