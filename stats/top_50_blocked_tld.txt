@@ -1,24 +1,24 @@
- 657466 com
- 113346 net
+ 657446 com
+ 113344 net
   58731 br
   47415 org
   42460 de
-  34074 ru
+  34068 ru
   26077 info
   22665 nl
   19922 fr
   19162 uk
-  18708 xyz
-  12594 cc
-  12038 top
-  11418 pl
-  10653 co
+  18709 xyz
+  12593 cc
+  12039 top
+  11417 pl
+  10652 co
   10319 in
   10194 eu
    9329 it
    9147 jp
    8811 io
-   7600 site
+   7601 site
    7460 cn
    7394 au
    7243 ch
@@ -26,7 +26,7 @@
    7156 biz
    7124 dev
    7069 me
-   6436 pro
+   6457 pro
    6314 online
    5780 ca
    5586 be
@@ -34,7 +34,7 @@
    5423 lu
    5375 cz
    5235 us
-   5067 club
+   5066 club
    5047 sexy
    5046 tv
    5013 tk
