@@ -1,50 +1,50 @@
- 657758 com
- 113372 net
-  58753 br
-  47426 org
+ 657626 com
+ 113355 net
+  58751 br
+  47427 org
   42465 de
-  34027 ru
-  26089 info
-  22669 nl
-  19932 fr
-  19170 uk
-  18719 xyz
-  12597 cc
-  12045 top
-  11414 pl
-  10657 co
+  33970 ru
+  26086 info
+  22659 nl
+  19924 fr
+  19168 uk
+  18715 xyz
+  12594 cc
+  12003 top
+  11408 pl
+  10653 co
   10319 in
-  10192 eu
-   9331 it
-   9148 jp
+  10187 eu
+   9328 it
+   9147 jp
    8811 io
    7609 site
    7461 cn
    7398 au
    7246 ch
-   7211 es
+   7208 es
    7159 biz
-   7129 dev
-   7062 me
-   6493 pro
-   6354 online
+   7128 dev
+   7048 me
+   6513 pro
+   6351 online
    5783 ca
    5587 be
-   5512 xxx
+   5511 xxx
    5423 lu
-   5377 cz
-   5237 us
+   5376 cz
+   5235 us
    5073 club
    5047 tv
-   5046 sexy
+   5037 sexy
    5013 tk
    4234 at
    4151 ninja
-   4082 tr
-   4008 id
+   4081 tr
+   4007 id
    4007 dk
    3851 se
    3849 live
    3751 hu
-   3586 mobi
-   3335 ro
+   3584 mobi
+   3334 ro
