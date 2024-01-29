@@ -1,33 +1,33 @@
- 658511 com
- 113452 net
-  58785 br
-  47490 org
+ 658573 com
+ 113461 net
+  58787 br
+  47493 org
   42480 de
-  34061 ru
-  26103 info
-  22701 nl
-  19932 fr
-  19203 uk
-  18753 xyz
+  34068 ru
+  26106 info
+  22705 nl
+  19933 fr
+  19207 uk
+  18754 xyz
   12606 cc
   11919 top
-  11404 pl
-  10667 co
+  11405 pl
+  10668 co
   10330 in
   10190 eu
-   9328 it
+   9330 it
    9152 jp
    8814 io
-   7627 site
-   7464 cn
-   7405 au
-   7249 ch
-   7217 es
-   7175 biz
-   7154 dev
-   7051 me
+   7628 site
+   7465 cn
+   7406 au
+   7251 ch
+   7218 es
+   7177 biz
+   7156 dev
+   7052 me
    6540 pro
-   6419 online
+   6422 online
    5797 ca
    5589 be
    5518 xxx
@@ -36,13 +36,13 @@
    5122 us
    5089 club
    5049 tv
-   5038 sexy
+   5039 sexy
    5010 tk
    4236 at
    4151 ninja
    4080 tr
    4014 id
-   4008 dk
+   4009 dk
    3855 se
    3847 live
    3754 hu
