@@ -1,39 +1,39 @@
- 658573 com
- 113461 net
+ 658577 com
+ 113471 net
   58787 br
-  47493 org
-  42480 de
-  34068 ru
-  26106 info
+  47492 org
+  42479 de
+  34082 ru
+  26105 info
   22705 nl
-  19933 fr
+  19934 fr
   19207 uk
   18754 xyz
   12606 cc
-  11919 top
+  11915 top
   11405 pl
   10668 co
-  10330 in
+  10329 in
   10190 eu
    9330 it
    9152 jp
-   8814 io
+   8813 io
    7628 site
    7465 cn
    7406 au
    7251 ch
    7218 es
-   7177 biz
+   7176 biz
    7156 dev
    7052 me
    6540 pro
-   6422 online
-   5797 ca
+   6421 online
+   5798 ca
    5589 be
    5518 xxx
    5423 lu
    5389 cz
-   5122 us
+   5121 us
    5089 club
    5049 tv
    5039 sexy
@@ -44,7 +44,7 @@
    4014 id
    4009 dk
    3855 se
-   3847 live
+   3846 live
    3754 hu
-   3606 mobi
-   3335 ro
+   3605 mobi
+   3333 ro
