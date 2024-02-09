@@ -1,20 +1,20 @@
- 663125 com
- 113840 net
-  58984 br
-  47739 org
-  42641 de
-  34226 ru
-  26291 info
-  22810 nl
-  20054 fr
-  19314 uk
-  18881 xyz
+ 663237 com
+ 113853 net
+  58978 br
+  47741 org
+  42644 de
+  34224 ru
+  26294 info
+  22820 nl
+  20053 fr
+  19310 uk
+  18879 xyz
   12688 cc
-  11904 top
+  11903 top
   11394 pl
   10734 co
-  10349 in
-  10247 eu
+  10348 in
+  10248 eu
    9369 it
    9163 jp
    8818 io
@@ -22,29 +22,29 @@
    7510 cn
    7442 au
    7281 ch
-   7249 es
-   7183 biz
+   7250 es
+   7184 biz
    7178 dev
-   7094 me
-   6622 pro
-   6493 online
-   5826 ca
+   7096 me
+   6621 pro
+   6489 online
+   5825 ca
    5630 be
-   5543 xxx
+   5544 xxx
    5424 lu
-   5404 cz
+   5403 cz
    5129 us
-   5111 club
+   5113 club
    5069 tv
    5048 sexy
    5013 tk
    4249 at
    4149 ninja
    4095 tr
-   4026 id
+   4024 id
    4005 dk
    3927 se
    3853 live
-   3771 hu
+   3769 hu
    3616 mobi
-   3344 ro
+   3343 ro
