@@ -1,30 +1,30 @@
- 659848 com
- 113807 net
+ 659850 com
+ 113813 net
   58856 br
-  47635 org
+  47634 org
   42625 de
-  34183 ru
+  34181 ru
   26229 info
   22783 nl
   20047 fr
   19303 uk
-  18764 xyz
+  18763 xyz
   12663 cc
-  11802 top
+  11800 top
   11390 pl
   10697 co
-  10310 in
+  10312 in
   10247 eu
    9347 it
-   9158 jp
+   9157 jp
    8809 io
    7691 site
    7509 cn
    7448 au
    7279 ch
    7242 es
-   7187 biz
-   7170 dev
+   7185 biz
+   7171 dev
    7075 me
    6586 pro
    6364 online
@@ -33,9 +33,9 @@
    5541 xxx
    5423 lu
    5403 cz
-   5082 us
+   5083 us
    5074 club
-   5058 tv
+   5059 tv
    5049 sexy
    4247 at
    4148 ninja
