@@ -1,42 +1,42 @@
- 659898 com
- 113717 net
-  58838 br
-  47645 org
-  42618 de
-  34392 ru
-  26204 info
-  22712 nl
-  20033 fr
-  19309 uk
+ 659801 com
+ 113723 net
+  58829 br
+  47647 org
+  42615 de
+  34406 ru
+  26201 info
+  22701 nl
+  20026 fr
+  19305 uk
   18744 xyz
-  12659 cc
-  11799 top
-  11350 pl
-  10682 co
-  10310 in
-  10245 eu
-   9345 it
+  12660 cc
+  11795 top
+  11338 pl
+  10687 co
+  10305 in
+  10247 eu
+   9343 it
    9157 jp
-   8810 io
-   7654 site
-   7495 cn
-   7455 au
-   7272 ch
-   7234 es
-   7194 dev
-   7189 biz
-   7088 me
-   6577 pro
-   6399 online
+   8812 io
+   7651 site
+   7493 cn
+   7453 au
+   7268 ch
+   7231 es
+   7192 dev
+   7190 biz
+   7086 me
+   6575 pro
+   6408 online
    5823 ca
    5629 be
    5533 xxx
    5423 lu
    5402 cz
-   5096 us
-   5065 club
-   5061 tv
-   5050 sexy
+   5094 us
+   5064 club
+   5060 tv
+   5049 sexy
    4248 at
    4148 ninja
    4098 tr
@@ -44,7 +44,7 @@
    4005 dk
    3935 se
    3771 hu
-   3729 live
-   3582 mobi
+   3727 live
+   3580 mobi
    3483 tk
    3341 ro
