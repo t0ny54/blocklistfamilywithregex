@@ -1,50 +1,50 @@
- 660235 com
- 113741 net
-  58853 br
-  47617 org
-  42594 de
-  34411 ru
-  26229 info
-  22725 nl
-  20036 fr
-  19291 uk
-  18789 xyz
-  12664 cc
-  11847 top
+ 661155 com
+ 113847 net
+  58857 br
+  47671 org
+  42629 de
+  34435 ru
+  26239 info
+  22757 nl
+  20041 fr
+  19307 uk
+  18862 xyz
+  12677 cc
+  11861 top
   11355 pl
-  10688 co
-  10273 in
-  10239 eu
-   9349 it
+  10695 co
+  10318 in
+  10240 eu
+   9350 it
    9159 jp
-   8813 io
-   7674 site
-   7546 cn
-   7454 au
+   8815 io
+   7691 site
+   7508 cn
+   7455 au
    7270 ch
-   7231 es
-   7194 biz
+   7233 es
+   7215 biz
    7193 dev
-   7087 me
-   6590 pro
-   6428 online
+   7098 me
+   6615 pro
+   6442 online
    5827 ca
-   5627 be
-   5493 xxx
+   5630 be
+   5540 xxx
    5423 lu
-   5405 cz
-   5094 us
-   5057 tv
-   5037 club
-   5035 sexy
+   5406 cz
+   5101 us
+   5082 club
+   5066 tv
+   5049 sexy
    4249 at
    4146 ninja
    4099 tr
-   4019 id
-   3999 dk
+   4020 id
+   4005 dk
    3935 se
    3773 hu
-   3738 live
-   3573 mobi
-   3485 tk
+   3742 live
+   3591 mobi
+   3487 tk
    3342 ro
