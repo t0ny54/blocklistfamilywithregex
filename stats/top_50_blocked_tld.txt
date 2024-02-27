@@ -1,20 +1,20 @@
- 660736 com
- 113888 net
+ 660768 com
+ 113893 net
   58865 br
-  47746 org
-  42641 de
-  34521 ru
-  26270 info
+  47758 org
+  42640 de
+  34574 ru
+  26269 info
   22755 nl
   20047 fr
   19311 uk
-  18901 xyz
+  18900 xyz
   12706 cc
-  11903 top
+  11902 top
   11359 pl
   10716 co
   10327 in
-  10263 eu
+  10264 eu
    9353 it
    9157 jp
    8819 io
@@ -23,19 +23,19 @@
    7453 au
    7269 ch
    7232 es
-   7212 biz
+   7213 biz
    7193 dev
-   7123 me
+   7122 me
    6645 pro
-   6470 online
+   6471 online
    5825 ca
    5630 be
    5535 xxx
    5423 lu
    5410 cz
-   5103 us
-   5083 tv
-   5079 club
+   5104 us
+   5084 tv
+   5078 club
    5050 sexy
    4251 at
    4153 ninja
