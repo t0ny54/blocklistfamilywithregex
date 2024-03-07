@@ -1,50 +1,50 @@
- 660840 com
- 113987 net
+ 660669 com
+ 113980 net
   58873 br
-  48169 org
-  42815 de
-  34483 ru
-  26324 info
-  22875 nl
-  20051 fr
-  19321 uk
+  48151 org
+  42814 de
+  34414 ru
+  26336 info
+  22915 nl
+  20048 fr
+  19322 uk
   18930 xyz
-  12699 cc
-  12007 top
-  11346 pl
-  10707 co
-  10318 in
-  10268 eu
+  12702 cc
+  12016 top
+  11345 pl
+  10699 co
+  10313 in
+  10267 eu
    9358 it
-   9156 jp
+   9157 jp
    8822 io
-   7779 site
-   7505 cn
+   7780 site
+   7507 cn
    7468 au
    7327 dev
-   7273 ch
-   7230 es
+   7275 ch
+   7234 es
    7220 biz
-   7110 me
-   6648 pro
-   6456 online
+   7111 me
+   6639 pro
+   6436 online
    5823 ca
    5640 be
    5537 xxx
-   5502 cz
+   5505 cz
    5422 lu
    5090 tv
-   5083 club
-   5049 us
-   4919 sexy
-   4231 at
-   4152 ninja
+   5082 club
+   5038 us
+   4842 sexy
+   4232 at
+   4151 ninja
    4100 tr
-   4016 id
+   4019 id
    4012 dk
    3937 se
    3782 hu
-   3756 live
-   3577 mobi
+   3764 live
+   3567 mobi
    3492 tk
    3346 ro
