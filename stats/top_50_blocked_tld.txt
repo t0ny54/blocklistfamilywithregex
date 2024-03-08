@@ -1,32 +1,32 @@
- 660669 com
- 113980 net
+ 660708 com
+ 113986 net
   58873 br
-  48151 org
+  48154 org
   42814 de
-  34414 ru
-  26336 info
+  34394 ru
+  26340 info
   22915 nl
-  20048 fr
+  20049 fr
   19322 uk
-  18930 xyz
-  12702 cc
-  12016 top
-  11345 pl
+  18938 xyz
+  12703 cc
+  12017 top
+  11346 pl
   10699 co
-  10313 in
+  10316 in
   10267 eu
    9358 it
-   9157 jp
+   9158 jp
    8822 io
    7780 site
-   7507 cn
+   7505 cn
    7468 au
    7327 dev
    7275 ch
-   7234 es
+   7235 es
    7220 biz
    7111 me
-   6639 pro
+   6642 pro
    6436 online
    5823 ca
    5640 be
@@ -34,7 +34,7 @@
    5505 cz
    5422 lu
    5090 tv
-   5082 club
+   5083 club
    5038 us
    4842 sexy
    4232 at
@@ -44,7 +44,7 @@
    4012 dk
    3937 se
    3782 hu
-   3764 live
+   3765 live
    3567 mobi
    3492 tk
    3346 ro
