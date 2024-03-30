@@ -1,47 +1,47 @@
- 663076 com
- 114065 net
+ 663251 com
+ 114070 net
   58978 br
   48161 org
-  42823 de
-  34326 ru
-  26557 info
-  23010 nl
-  20076 fr
-  19307 uk
-  19013 xyz
+  42825 de
+  34339 ru
+  26556 info
+  23013 nl
+  20081 fr
+  19311 uk
+  19014 xyz
   12785 cc
   12155 top
   11374 pl
-  10692 co
-  10274 in
-  10267 eu
-   9386 it
-   9175 jp
+  10693 co
+  10277 in
+  10270 eu
+   9389 it
+   9177 jp
    8824 io
    7785 site
    7517 cn
-   7480 au
-   7313 ch
+   7482 au
+   7315 ch
    7303 dev
-   7263 es
+   7264 es
    7260 biz
-   7155 me
+   7157 me
    6696 pro
    6607 online
-   5829 ca
-   5670 be
-   5534 cz
+   5830 ca
+   5671 be
+   5535 cz
    5533 xxx
    5422 lu
    5114 tv
-   5101 club
+   5102 club
    4991 sexy
    4858 us
    4248 at
    4151 ninja
    4112 tr
    4044 id
-   4018 dk
+   4019 dk
    3972 se
    3789 hu
    3757 live
