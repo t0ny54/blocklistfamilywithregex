@@ -1,20 +1,20 @@
- 664087 com
- 114264 net
+ 664137 com
+ 114266 net
   58988 br
   48034 org
   42734 de
   34158 ru
   26519 info
-  22947 nl
+  22967 nl
   20088 fr
   19340 uk
-  19081 xyz
+  19082 xyz
   12864 cc
   12165 top
   11387 pl
   10707 co
   10297 eu
-  10273 in
+  10279 in
    9399 it
    9180 jp
    8829 io
@@ -22,14 +22,14 @@
    7507 cn
    7484 au
    7448 dev
-   7326 ch
+   7327 ch
    7316 biz
    7275 es
    7180 me
-   6618 online
+   6619 online
    6395 pro
    5836 ca
-   5683 be
+   5690 be
    5544 cz
    5539 xxx
    5422 lu
