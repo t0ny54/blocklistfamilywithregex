@@ -1,50 +1,50 @@
- 661833 com
- 114265 net
-  59008 br
-  48068 org
+ 661781 com
+ 114272 net
+  59002 br
+  48065 org
   42468 de
-  34248 ru
-  26498 info
-  22828 nl
-  20143 fr
-  19340 uk
-  18930 xyz
-  12832 cc
-  12091 top
+  34207 ru
+  26494 info
+  22826 nl
+  20142 fr
+  19339 uk
+  18882 xyz
+  12823 cc
+  12089 top
   11360 pl
   10722 co
   10310 eu
-  10251 in
+  10250 in
    9404 it
    9188 jp
    8829 io
-   7777 site
+   7776 site
    7511 cn
    7467 au
    7466 dev
    7343 ch
    7305 biz
-   7266 es
+   7262 es
    7163 me
-   6540 online
-   6386 pro
-   5850 ca
+   6538 online
+   6385 pro
+   5851 ca
    5693 be
-   5554 cz
-   5542 xxx
+   5552 cz
+   5541 xxx
    5422 lu
-   5129 tv
-   5110 club
+   5128 tv
+   5109 club
    4734 us
-   4712 sexy
+   4646 sexy
    4266 at
    4200 dk
    4179 tr
    4148 ninja
-   4034 id
+   4033 id
    3981 se
-   3794 hu
+   3793 hu
    3654 mobi
    3493 tk
-   3362 ro
+   3361 ro
    3281 st
