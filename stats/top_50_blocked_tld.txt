@@ -1,50 +1,50 @@
- 664482 com
- 114433 net
-  58990 br
-  48157 org
+ 664202 com
+ 114427 net
+  58985 br
+  48154 org
   42525 de
-  34150 ru
-  26593 info
-  22905 nl
-  20161 fr
-  19363 uk
-  18868 xyz
-  12831 cc
-  12122 top
-  11356 pl
-  10718 co
-  10317 eu
-  10264 in
-   9404 it
-   9182 jp
-   8827 io
-   7805 site
+  34136 ru
+  26583 info
+  22901 nl
+  20157 fr
+  19360 uk
+  18864 xyz
+  12826 cc
+  12116 top
+  11351 pl
+  10715 co
+  10316 eu
+  10257 in
+   9403 it
+   9180 jp
+   8826 io
+   7809 site
    7515 cn
-   7472 au
+   7471 au
    7469 dev
-   7350 ch
-   7325 biz
-   7273 es
-   7169 me
-   6538 online
+   7349 ch
+   7320 biz
+   7270 es
+   7175 me
+   6523 online
    6416 pro
    5851 ca
    5695 be
-   5580 cz
+   5579 cz
    5545 xxx
    5424 lu
-   5136 tv
+   5135 tv
    5107 club
-   4733 us
-   4576 sexy
+   4732 us
+   4566 sexy
    4272 at
    4207 dk
    4169 tr
    4148 ninja
    4027 id
-   3979 se
+   3978 se
    3801 hu
-   3651 mobi
+   3650 mobi
    3493 tk
-   3359 ro
+   3358 ro
    3279 st
