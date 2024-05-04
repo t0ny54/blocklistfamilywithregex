@@ -1,50 +1,50 @@
- 664202 com
- 114427 net
-  58985 br
-  48154 org
-  42525 de
-  34136 ru
-  26583 info
+ 664407 com
+ 114443 net
+  58997 br
+  48167 org
+  42526 de
+  34147 ru
+  26593 info
   22901 nl
-  20157 fr
-  19360 uk
-  18864 xyz
-  12826 cc
-  12116 top
-  11351 pl
-  10715 co
-  10316 eu
-  10257 in
+  20161 fr
+  19364 uk
+  18885 xyz
+  12830 cc
+  12121 top
+  11353 pl
+  10718 co
+  10318 eu
+  10266 in
    9403 it
-   9180 jp
+   9181 jp
    8826 io
-   7809 site
-   7515 cn
+   7802 site
+   7517 cn
+   7473 dev
    7471 au
-   7469 dev
-   7349 ch
-   7320 biz
-   7270 es
-   7175 me
-   6523 online
-   6416 pro
-   5851 ca
+   7350 ch
+   7321 biz
+   7271 es
+   7176 me
+   6532 online
+   6440 pro
+   5853 ca
    5695 be
-   5579 cz
-   5545 xxx
+   5578 cz
+   5544 xxx
    5424 lu
-   5135 tv
-   5107 club
-   4732 us
-   4566 sexy
+   5137 tv
+   5109 club
+   4798 sexy
+   4735 us
    4272 at
    4207 dk
-   4169 tr
+   4172 tr
    4148 ninja
-   4027 id
+   4028 id
    3978 se
    3801 hu
-   3650 mobi
+   3658 mobi
    3493 tk
-   3358 ro
+   3360 ro
    3279 st
