@@ -1,50 +1,50 @@
- 664407 com
- 114443 net
-  58997 br
-  48167 org
-  42526 de
-  34147 ru
+ 664354 com
+ 114438 net
+  58996 br
+  48168 org
+  42522 de
+  34139 ru
   26593 info
-  22901 nl
-  20161 fr
-  19364 uk
-  18885 xyz
+  22900 nl
+  20162 fr
+  19371 uk
+  18880 xyz
   12830 cc
   12121 top
-  11353 pl
-  10718 co
-  10318 eu
-  10266 in
+  11352 pl
+  10717 co
+  10319 eu
+  10263 in
    9403 it
    9181 jp
    8826 io
-   7802 site
+   7797 site
    7517 cn
-   7473 dev
+   7471 dev
    7471 au
-   7350 ch
+   7349 ch
    7321 biz
    7271 es
-   7176 me
-   6532 online
-   6440 pro
+   7177 me
+   6529 online
+   6443 pro
    5853 ca
-   5695 be
+   5696 be
    5578 cz
-   5544 xxx
-   5424 lu
+   5543 xxx
+   5423 lu
    5137 tv
-   5109 club
+   5108 club
    4798 sexy
    4735 us
    4272 at
-   4207 dk
-   4172 tr
+   4204 dk
+   4171 tr
    4148 ninja
-   4028 id
+   4027 id
    3978 se
    3801 hu
    3658 mobi
    3493 tk
-   3360 ro
+   3358 ro
    3279 st
