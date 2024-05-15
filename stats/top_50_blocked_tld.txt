@@ -1,34 +1,34 @@
- 665835 com
- 114568 net
-  58992 br
-  48269 org
+ 665858 com
+ 114571 net
+  58991 br
+  48272 org
   42562 de
-  34050 ru
-  26616 info
+  34048 ru
+  26620 info
   22944 nl
-  20183 fr
+  20184 fr
   19420 uk
-  18879 xyz
-  13168 top
-  12855 cc
+  18880 xyz
+  13173 top
+  12845 cc
   11379 pl
-  10765 co
+  10770 co
   10347 eu
-  10276 in
-   9412 it
+  10280 in
+   9413 it
    9108 jp
    8845 io
    7898 site
-   7519 cn
+   7520 cn
    7481 dev
    7471 au
    7358 ch
    7331 biz
-   7290 es
+   7291 es
    7186 me
-   6551 online
-   6485 pro
-   5909 ca
+   6550 online
+   6486 pro
+   5910 ca
    5706 be
    5577 cz
    5548 xxx
@@ -36,7 +36,7 @@
    5144 tv
    5122 club
    4796 sexy
-   4743 us
+   4744 us
    4284 at
    4266 dk
    4176 tr
