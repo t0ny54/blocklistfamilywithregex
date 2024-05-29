@@ -1,24 +1,24 @@
- 665819 com
- 114570 net
+ 665854 com
+ 114572 net
   58960 br
-  48316 org
-  42653 de
-  33920 ru
-  26645 info
-  22914 nl
+  48320 org
+  42657 de
+  33921 ru
+  26647 info
+  22916 nl
   20191 fr
-  19447 uk
-  18916 xyz
+  19448 uk
+  18917 xyz
   13190 top
   12731 cc
   11374 pl
   10763 co
-  10360 eu
-  10340 in
+  10361 eu
+  10342 in
    9424 it
-   9115 jp
-   8856 io
-   7932 site
+   9116 jp
+   8858 io
+   7933 site
    7526 cn
    7483 au
    7473 dev
@@ -26,24 +26,24 @@
    7333 biz
    7310 es
    7140 me
-   6493 pro
-   6332 online
+   6494 pro
+   6333 online
    5914 ca
    5698 be
    5585 cz
    5560 xxx
    5426 lu
-   5138 tv
+   5139 tv
    5119 club
    4783 sexy
    4748 us
    4291 at
-   4273 dk
+   4274 dk
    4208 tr
    4147 ninja
    4046 id
    3991 se
-   3810 hu
+   3811 hu
    3654 mobi
    3492 tk
    3383 ro
