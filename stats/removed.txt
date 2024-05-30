@@ -1,1 +1,1 @@
-call-ad-network-api.marchex.com
+ad.bizo.com
