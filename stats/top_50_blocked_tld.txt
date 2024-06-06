@@ -1,50 +1,50 @@
- 666203 com
- 114687 net
-  58942 br
-  48529 org
-  42573 de
-  33624 ru
-  26659 info
-  22820 nl
-  20175 fr
-  19447 uk
-  18920 xyz
-  13187 top
-  12739 cc
-  11361 pl
-  10743 co
-  10356 in
-  10352 eu
-   9426 it
+ 665985 com
+ 114675 net
+  58920 br
+  48523 org
+  42572 de
+  33555 ru
+  26654 info
+  22818 nl
+  20168 fr
+  19442 uk
+  18915 xyz
+  13184 top
+  12733 cc
+  11360 pl
+  10741 co
+  10355 in
+  10353 eu
+   9421 it
    9130 jp
-   8857 io
-   7972 site
+   8860 io
+   7960 site
    7495 cn
-   7484 dev
-   7474 au
-   7354 ch
-   7342 biz
-   7307 es
-   7146 me
-   6524 pro
-   6334 online
-   5914 ca
+   7482 dev
+   7475 au
+   7350 ch
+   7339 biz
+   7303 es
+   7143 me
+   6535 pro
+   6322 online
+   5912 ca
    5688 be
-   5578 cz
+   5577 cz
    5568 xxx
    5425 lu
-   5150 tv
+   5148 tv
    5106 club
-   4773 sexy
+   4770 sexy
    4751 us
    4293 at
-   4277 dk
-   4203 tr
-   4149 ninja
-   4040 id
-   3991 se
-   3807 hu
-   3682 mobi
+   4276 dk
+   4202 tr
+   4148 ninja
+   4039 id
+   3990 se
+   3805 hu
+   3680 mobi
    3492 tk
    3383 ro
-   3282 st
+   3281 st
