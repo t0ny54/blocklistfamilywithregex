@@ -1,50 +1,50 @@
- 666586 com
- 114727 net
-  58931 br
-  48552 org
-  42550 de
-  33509 ru
-  26650 info
-  22809 nl
-  20168 fr
-  19460 uk
-  18939 xyz
-  13206 top
-  12753 cc
-  11362 pl
-  10752 co
-  10367 in
-  10352 eu
-   9423 it
+ 666431 com
+ 114716 net
+  58923 br
+  48554 org
+  42536 de
+  33495 ru
+  26636 info
+  22804 nl
+  20164 fr
+  19455 uk
+  18935 xyz
+  13201 top
+  12747 cc
+  11360 pl
+  10753 co
+  10364 in
+  10350 eu
+   9422 it
    9152 jp
-   8858 io
-   7945 site
+   8855 io
+   7938 site
    7498 dev
    7495 cn
    7472 au
-   7355 ch
-   7341 biz
+   7354 ch
+   7336 biz
    7316 es
-   7152 me
-   6565 pro
-   6315 online
+   7149 me
+   6564 pro
+   6306 online
    5921 ca
    5688 be
-   5583 cz
-   5570 xxx
+   5582 cz
+   5571 xxx
    5424 lu
-   5155 tv
+   5154 tv
    5112 club
-   4766 sexy
+   4765 sexy
    4758 us
-   4299 at
+   4298 at
    4274 dk
-   4199 tr
+   4198 tr
    4148 ninja
    4033 id
-   3994 se
+   3993 se
    3811 hu
-   3679 mobi
+   3677 mobi
    3492 tk
    3383 ro
    3280 st
