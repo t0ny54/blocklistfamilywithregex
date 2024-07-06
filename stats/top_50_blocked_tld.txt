@@ -1,19 +1,19 @@
- 668109 com
- 115190 net
-  58982 br
-  48711 org
-  42691 de
-  33647 ru
-  26690 info
-  22895 nl
+ 668076 com
+ 115184 net
+  58976 br
+  48713 org
+  42692 de
+  33644 ru
+  26689 info
+  22894 nl
   20184 fr
-  19444 uk
-  18867 xyz
+  19439 uk
+  18864 xyz
   13138 top
   12729 cc
-  11609 pl
-  10757 co
-  10423 eu
+  11606 pl
+  10769 co
+  10421 eu
   10349 in
    9427 it
    9140 jp
@@ -23,28 +23,28 @@
    7504 cn
    7473 au
    7363 ch
-   7339 es
-   7334 biz
-   7230 me
-   6700 pro
-   6063 online
+   7340 es
+   7332 biz
+   7231 me
+   6698 pro
+   6054 online
    5912 ca
    5706 be
-   5596 xxx
-   5596 cz
+   5597 cz
+   5595 xxx
    5426 lu
    5318 tv
-   5137 club
+   5135 club
    4761 us
-   4750 sexy
+   4749 sexy
    4312 at
-   4283 dk
+   4282 dk
    4219 tr
    4147 ninja
    4050 id
-   4017 se
+   4016 se
    3841 hu
-   3633 mobi
+   3630 mobi
    3491 tk
    3384 ro
    3282 st
