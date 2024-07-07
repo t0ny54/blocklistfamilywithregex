@@ -1,50 +1,50 @@
- 668076 com
- 115184 net
-  58976 br
-  48713 org
-  42692 de
-  33644 ru
-  26689 info
-  22894 nl
+ 667875 com
+ 115165 net
+  58966 br
+  48703 org
+  42682 de
+  33622 ru
+  26680 info
+  22891 nl
   20184 fr
-  19439 uk
-  18864 xyz
-  13138 top
-  12729 cc
+  19432 uk
+  18859 xyz
+  13133 top
+  12728 cc
   11606 pl
-  10769 co
-  10421 eu
-  10349 in
-   9427 it
-   9140 jp
-   8861 io
-   7913 site
-   7518 dev
-   7504 cn
-   7473 au
-   7363 ch
-   7340 es
+  10754 co
+  10418 eu
+  10348 in
+   9424 it
+   9139 jp
+   8858 io
+   7909 site
+   7506 dev
+   7502 cn
+   7471 au
+   7360 ch
+   7335 es
    7332 biz
    7231 me
-   6698 pro
-   6054 online
-   5912 ca
-   5706 be
-   5597 cz
+   6699 pro
+   6044 online
+   5910 ca
+   5705 be
+   5596 cz
    5595 xxx
    5426 lu
-   5318 tv
-   5135 club
-   4761 us
-   4749 sexy
-   4312 at
-   4282 dk
-   4219 tr
+   5317 tv
+   5133 club
+   4760 us
+   4748 sexy
+   4311 at
+   4281 dk
+   4217 tr
    4147 ninja
-   4050 id
-   4016 se
+   4049 id
+   4012 se
    3841 hu
-   3630 mobi
+   3627 mobi
    3491 tk
-   3384 ro
+   3383 ro
    3282 st
