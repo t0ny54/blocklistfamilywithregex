@@ -1,6 +1,11 @@
-aagmaal.uk
-ad.technoratimedia.com
-casinoadmiral.lt
-manoloto.lt
-twinsbet.lt
-uniclub.lt
+ad.bizo.com
+api.appmetrica.yandex.ru
+metrics.gfycat.com
+play.pampopholf.com
+ppc.adhere.marchex.com
+report-1.appmetrica.webvisor.com
+report-2.appmetrica.webvisor.com
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
+s3.pampopholf.com
