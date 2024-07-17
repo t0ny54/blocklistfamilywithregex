@@ -1,50 +1,50 @@
- 668859 com
- 115238 net
-  58986 br
-  48764 org
-  42682 de
-  33567 ru
-  26711 info
-  22893 nl
-  20195 fr
-  19453 uk
-  18882 xyz
-  13151 top
-  12750 cc
-  11605 pl
-  10754 co
-  10419 eu
-  10356 in
-   9424 it
+ 668701 com
+ 115223 net
+  58967 br
+  48768 org
+  42678 de
+  33459 ru
+  26703 info
+  22889 nl
+  20190 fr
+  19451 uk
+  18870 xyz
+  13143 top
+  12740 cc
+  11601 pl
+  10755 co
+  10420 eu
+  10363 in
+   9422 it
    9135 jp
    8858 io
-   7933 site
-   7551 dev
-   7501 cn
-   7472 au
-   7356 ch
-   7338 biz
-   7336 es
-   7239 me
-   6717 pro
-   6081 online
+   7922 site
+   7550 dev
+   7500 cn
+   7468 au
+   7348 ch
+   7337 biz
+   7333 es
+   7237 me
+   6713 pro
+   6072 online
    5924 ca
-   5712 be
+   5711 be
    5602 xxx
    5596 cz
    5426 lu
-   5320 tv
-   5144 club
-   4772 us
-   4750 sexy
+   5319 tv
+   5143 club
+   4769 us
+   4748 sexy
    4311 at
-   4284 dk
-   4228 tr
+   4285 dk
+   4224 tr
    4146 ninja
-   4046 id
+   4045 id
    4015 se
-   3838 hu
-   3620 mobi
+   3837 hu
+   3607 mobi
    3491 tk
    3384 ro
    3282 st
