@@ -1,37 +1,37 @@
- 670076 com
- 115445 net
-  58995 br
-  48823 org
-  42671 de
-  33494 ru
-  26740 info
-  22891 nl
+ 670009 com
+ 115440 net
+  58994 br
+  48818 org
+  42670 de
+  33491 ru
+  26739 info
+  22889 nl
   20186 fr
-  19456 uk
-  18881 xyz
-  13138 top
-  12755 cc
+  19454 uk
+  18879 xyz
+  13134 top
+  12753 cc
   11608 pl
   10771 co
-  10424 eu
-  10363 in
+  10425 eu
+  10362 in
    9425 it
    9137 jp
    8867 io
-   7948 site
+   7949 site
    7552 dev
-   7501 cn
+   7500 cn
    7467 au
    7347 ch
-   7338 biz
-   7336 es
+   7337 biz
+   7335 es
    7242 me
-   6722 pro
-   6109 online
-   5930 ca
+   6721 pro
+   6107 online
+   5929 ca
    5712 be
    5605 xxx
-   5599 cz
+   5600 cz
    5426 lu
    5326 tv
    5150 club
