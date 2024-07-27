@@ -1,50 +1,50 @@
- 670265 com
- 115453 net
-  59000 br
-  48829 org
-  42669 de
-  33491 ru
-  26739 info
-  22883 nl
-  20187 fr
-  19452 uk
-  18885 xyz
-  13135 top
-  12780 cc
-  11596 pl
-  10774 co
-  10425 eu
-  10363 in
-   9424 it
-   9137 jp
+ 670363 com
+ 115451 net
+  58992 br
+  48837 org
+  42668 de
+  33492 ru
+  26741 info
+  22884 nl
+  20186 fr
+  19454 uk
+  18883 xyz
+  13146 top
+  12784 cc
+  11589 pl
+  10773 co
+  10426 eu
+  10365 in
+   9423 it
+   9136 jp
    8869 io
-   7964 site
-   7572 dev
-   7502 cn
-   7468 au
-   7348 ch
-   7337 biz
+   7965 site
+   7573 dev
+   7501 cn
+   7469 au
+   7349 ch
+   7338 biz
    7335 es
-   7245 me
-   6726 pro
-   6103 online
-   5928 ca
+   7246 me
+   6727 pro
+   6099 online
+   5929 ca
    5712 be
-   5604 xxx
-   5599 cz
+   5611 xxx
+   5598 cz
    5426 lu
-   5325 tv
-   5148 club
-   4799 us
-   4751 sexy
+   5326 tv
+   5150 club
+   4800 us
+   4759 sexy
    4311 at
    4286 dk
-   4229 tr
-   4145 ninja
-   4043 id
-   4016 se
+   4227 tr
+   4144 ninja
+   4041 id
+   4015 se
    3838 hu
    3615 mobi
    3491 tk
-   3384 ro
+   3385 ro
    3282 st
