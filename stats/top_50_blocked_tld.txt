@@ -1,10 +1,10 @@
- 671088 com
- 115498 net
+ 671102 com
+ 115501 net
   59025 br
-  48867 org
+  48869 org
   42671 de
   33519 ru
-  26748 info
+  26749 info
   22890 nl
   20191 fr
   19461 uk
@@ -19,21 +19,21 @@
    9136 jp
    8871 io
    7988 site
-   7582 dev
+   7583 dev
    7502 cn
    7470 au
    7353 ch
-   7348 biz
+   7349 biz
    7341 es
    7255 me
    6747 pro
-   6170 online
+   6171 online
    5930 ca
    5712 be
    5624 xxx
    5600 cz
    5426 lu
-   5328 tv
+   5329 tv
    5154 club
    4805 us
    4760 sexy
