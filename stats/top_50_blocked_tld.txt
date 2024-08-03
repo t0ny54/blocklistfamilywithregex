@@ -1,50 +1,50 @@
- 672180 com
- 115693 net
-  59011 br
-  48956 org
-  42692 de
-  33516 ru
-  26851 info
-  22847 nl
-  20190 fr
-  19476 uk
-  18930 xyz
-  13256 top
-  12807 cc
-  11391 pl
-  10784 co
-  10462 eu
-  10382 in
-   9426 it
-   9143 jp
-   8871 io
-   7986 site
+ 671904 com
+ 115666 net
+  58995 br
+  48941 org
+  42690 de
+  33513 ru
+  26847 info
+  22843 nl
+  20189 fr
+  19473 uk
+  18917 xyz
+  13251 top
+  12798 cc
+  11385 pl
+  10783 co
+  10461 eu
+  10376 in
+   9424 it
+   9142 jp
+   8870 io
+   7971 site
    7627 cn
-   7586 dev
-   7472 au
-   7368 ch
-   7357 biz
-   7346 es
-   7244 me
-   6728 pro
-   6159 online
+   7585 dev
+   7471 au
+   7367 ch
+   7354 biz
+   7345 es
+   7242 me
+   6720 pro
+   6137 online
    5932 ca
    5719 be
    5636 xxx
-   5599 cz
+   5597 cz
    5426 lu
-   5180 tv
-   5163 club
-   4805 us
-   4754 sexy
+   5178 tv
+   5161 club
+   4803 us
+   4747 sexy
    4320 at
-   4282 dk
-   4233 tr
+   4281 dk
+   4232 tr
    4142 ninja
    4045 id
-   4019 se
+   4018 se
    3841 hu
-   3607 mobi
+   3603 mobi
    3491 tk
-   3387 ro
-   3281 st
+   3386 ro
+   3280 st
