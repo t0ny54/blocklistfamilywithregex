@@ -1,50 +1,50 @@
- 678534 com
- 116177 net
-  59303 br
-  49342 org
-  42875 de
-  34154 ru
-  26952 info
-  22903 nl
-  20454 fr
-  19629 uk
-  19103 xyz
-  13407 top
-  12871 cc
-  11446 pl
-  10857 co
-  10548 eu
-  10455 in
-   9457 it
-   9156 jp
+ 679155 com
+ 116203 net
+  59312 br
+  49356 org
+  42881 de
+  34183 ru
+  26951 info
+  22905 nl
+  20461 fr
+  19634 uk
+  19111 xyz
+  13461 top
+  12889 cc
+  11437 pl
+  10860 co
+  10546 eu
+  10459 in
+   9456 it
+   9157 jp
    8877 io
-   8110 site
-   7645 cn
-   7642 dev
-   7508 au
-   7431 ch
-   7429 es
-   7384 biz
-   7279 me
-   6783 pro
-   6247 online
-   5984 ca
-   5769 be
-   5642 xxx
-   5639 cz
+   8118 site
+   7652 cn
+   7646 dev
+   7509 au
+   7435 ch
+   7434 es
+   7382 biz
+   7282 me
+   6787 pro
+   6245 online
+   5986 ca
+   5774 be
+   5645 xxx
+   5643 cz
    5428 lu
-   5208 tv
-   5190 club
-   4828 us
-   4751 sexy
-   4472 tr
+   5210 tv
+   5191 club
+   4829 us
+   4749 sexy
+   4483 tr
    4343 at
    4299 dk
    4143 ninja
-   4090 id
-   4027 se
+   4091 id
+   4006 se
    3875 hu
-   3613 mobi
+   3615 mobi
    3492 tk
-   3425 ro
+   3430 ro
    3280 st
