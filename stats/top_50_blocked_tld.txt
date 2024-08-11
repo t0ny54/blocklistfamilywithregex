@@ -1,49 +1,49 @@
- 678983 com
- 116197 net
-  59277 br
-  49359 org
-  42886 de
-  34126 ru
-  26949 info
-  22914 nl
+ 678769 com
+ 116183 net
+  59270 br
+  49357 org
+  42881 de
+  34110 ru
+  26947 info
+  22912 nl
   20446 fr
-  19625 uk
-  19583 xyz
-  13454 top
-  12886 cc
+  19622 uk
+  19579 xyz
+  13446 top
+  12896 cc
   11410 pl
   10855 co
-  10545 eu
-  10457 in
-   9449 it
-   9158 jp
+  10544 eu
+  10453 in
+   9448 it
+   9157 jp
    8877 io
-   8130 site
+   8125 site
    7652 cn
-   7605 dev
-   7504 au
-   7432 ch
-   7424 es
-   7375 biz
-   7283 me
-   6798 pro
-   6247 online
+   7601 dev
+   7505 au
+   7431 ch
+   7421 es
+   7374 biz
+   7280 me
+   6797 pro
+   6242 online
    5982 ca
-   5774 be
-   5645 cz
+   5773 be
    5643 xxx
+   5643 cz
    5427 lu
-   5211 tv
-   5193 club
-   4940 tr
+   5210 tv
+   5191 club
+   4941 tr
    4828 us
-   4761 sexy
+   4758 sexy
    4345 at
    4296 dk
    4143 ninja
    4084 id
    4003 se
-   3874 hu
+   3873 hu
    3619 mobi
    3492 tk
    3426 ro
