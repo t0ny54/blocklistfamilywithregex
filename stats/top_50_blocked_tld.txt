@@ -1,50 +1,50 @@
- 678652 com
- 116188 net
-  59277 br
-  49367 org
-  42879 de
-  34079 ru
-  26954 info
-  22927 nl
-  20444 fr
-  19617 uk
-  19563 xyz
-  13487 top
-  12894 cc
-  11408 pl
-  10855 co
-  10570 eu
-  10460 in
-   9448 it
+ 678500 com
+ 116172 net
+  59268 br
+  49355 org
+  42878 de
+  34061 ru
+  26952 info
+  22924 nl
+  20442 fr
+  19618 uk
+  19548 xyz
+  13466 top
+  12890 cc
+  11407 pl
+  10854 co
+  10569 eu
+  10459 in
+   9446 it
    9160 jp
    8877 io
-   8136 site
-   7652 cn
-   7603 dev
-   7506 au
-   7434 ch
-   7421 es
+   8129 site
+   7651 cn
+   7602 dev
+   7503 au
+   7433 ch
+   7419 es
    7383 biz
-   7279 me
-   6817 pro
-   6248 online
+   7272 me
+   6814 pro
+   6230 online
    5984 ca
-   5773 be
+   5774 be
    5643 xxx
-   5640 cz
+   5639 cz
    5427 lu
    5216 tv
    5189 club
    4941 tr
-   4829 us
-   4756 sexy
+   4826 us
+   4752 sexy
    4344 at
    4297 dk
-   4144 ninja
-   4082 id
+   4143 ninja
+   4083 id
    4029 se
    3873 hu
-   3621 mobi
+   3618 mobi
    3492 tk
-   3423 ro
+   3421 ro
    3281 st
