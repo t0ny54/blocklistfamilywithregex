@@ -1,50 +1,50 @@
- 661077 com
- 115023 net
-  58654 br
-  48514 org
-  42479 de
-  33546 ru
-  26743 info
-  22580 nl
-  20032 fr
-  19066 xyz
-  18901 uk
+ 661052 com
+ 115014 net
+  58655 br
+  48513 org
+  42480 de
+  33533 ru
+  26746 info
+  22578 nl
+  20034 fr
+  19071 xyz
+  18899 uk
   13175 top
   12791 cc
-  11309 pl
-  10697 co
+  11307 pl
+  10696 co
   10394 eu
-  10254 in
-   9185 it
-   9105 jp
+  10252 in
+   9186 it
+   9104 jp
    8856 io
-   8046 site
+   8058 site
    7619 cn
    7355 au
-   7337 biz
-   7314 dev
+   7340 biz
+   7319 dev
    7284 ch
    7199 me
    7196 es
    6764 pro
-   5967 online
+   5969 online
    5821 ca
    5676 be
    5598 xxx
    5524 cz
    5419 lu
-   5149 tv
+   5148 tv
    5103 club
-   4869 tr
-   4736 us
-   4689 sexy
+   4868 tr
+   4735 us
+   4678 sexy
    4288 at
    4228 dk
    4143 ninja
-   4043 id
+   4040 id
    3947 se
    3806 hu
-   3603 mobi
+   3604 mobi
    3489 tk
    3380 ro
    3278 st
