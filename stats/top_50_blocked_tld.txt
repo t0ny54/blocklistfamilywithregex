@@ -1,40 +1,40 @@
- 661408 com
- 115031 net
-  58593 br
-  48511 org
-  42476 de
-  33490 ru
-  26742 info
-  22566 nl
+ 661491 com
+ 115037 net
+  58598 br
+  48512 org
+  42488 de
+  33492 ru
+  26748 info
+  22567 nl
   20014 fr
-  19045 xyz
+  19052 xyz
   18896 uk
-  13173 top
-  12756 cc
+  13176 top
+  12768 cc
   11302 pl
-  10686 co
-  10388 eu
-  10244 in
+  10687 co
+  10389 eu
+  10248 in
    9174 it
    9104 jp
    8856 io
-   8035 site
-   7616 cn
+   8040 site
+   7617 cn
    7334 au
-   7332 biz
-   7289 ch
-   7286 dev
-   7198 me
-   7188 es
-   6760 pro
-   5959 online
+   7333 biz
+   7290 ch
+   7288 dev
+   7200 me
+   7191 es
+   6764 pro
+   5963 online
    5817 ca
    5674 be
-   5598 xxx
-   5519 cz
+   5600 xxx
+   5520 cz
    5417 lu
-   5149 tv
-   5093 club
+   5159 tv
+   5094 club
    4860 tr
    4737 us
    4682 sexy
@@ -45,6 +45,6 @@
    3945 se
    3803 hu
    3607 mobi
-   3489 tk
+   3491 tk
    3379 ro
    3277 st
