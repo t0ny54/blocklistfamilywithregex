@@ -1,50 +1,50 @@
- 661360 com
- 115037 net
-  58589 br
-  48501 org
-  42512 de
-  33485 ru
-  26747 info
-  22552 nl
-  20014 fr
-  19045 xyz
-  18900 uk
+ 661493 com
+ 115075 net
+  58604 br
+  48532 org
+  42517 de
+  33507 ru
+  26752 info
+  22548 nl
+  20015 fr
+  19047 xyz
+  18906 uk
   13172 top
-  12768 cc
-  11302 pl
-  10680 co
-  10393 eu
-  10250 in
-   9168 it
-   9105 jp
-   8856 io
-   8057 site
-   7613 cn
-   7330 au
-   7324 biz
-   7292 ch
+  12769 cc
+  11305 pl
+  10682 co
+  10398 eu
+  10262 in
+   9185 it
+   9110 jp
+   8857 io
+   8058 site
+   7615 cn
+   7336 au
+   7327 biz
+   7297 ch
    7278 dev
-   7202 me
-   7185 es
-   6788 pro
-   5956 online
-   5815 ca
-   5669 be
+   7204 me
+   7191 es
+   6789 pro
+   5957 online
+   5818 ca
+   5671 be
    5599 xxx
-   5518 cz
-   5417 lu
-   5156 tv
-   5094 club
-   4860 tr
+   5523 cz
+   5418 lu
+   5158 tv
+   5097 club
+   4864 tr
    4735 us
    4703 sexy
-   4288 at
+   4290 at
    4224 dk
    4143 ninja
-   4030 id
-   3947 se
-   3800 hu
-   3611 mobi
+   4031 id
+   3950 se
+   3807 hu
+   3612 mobi
    3490 tk
-   3380 ro
+   3383 ro
    3277 st
