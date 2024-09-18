@@ -1,43 +1,43 @@
- 655986 com
- 114678 net
-  58231 br
-  48334 org
-  42376 de
-  33852 ru
+ 655925 com
+ 114672 net
+  58228 br
+  48333 org
+  42375 de
+  33849 ru
   26972 info
   23444 fr
-  22501 nl
-  19051 xyz
+  22500 nl
+  19048 xyz
   18700 uk
   12988 top
-  12735 cc
+  12733 cc
   11238 pl
-  10625 co
+  10624 co
   10277 eu
-  10220 in
-   9099 it
+  10221 in
+   9098 it
    9093 jp
    8827 io
-   7990 site
+   7987 site
    7493 cn
-   7300 biz
+   7299 biz
    7246 au
    7231 ch
    7177 dev
-   7137 me
+   7136 me
    7091 es
-   6727 pro
-   5770 ca
-   5710 online
+   6726 pro
+   5769 ca
+   5709 online
    5597 be
    5588 xxx
-   5561 sexy
+   5556 sexy
    5456 cz
    5413 lu
-   5144 tv
-   5053 club
-   4844 tr
-   4697 us
+   5145 tv
+   5051 club
+   4842 tr
+   4696 us
    4268 at
    4208 dk
    4141 ninja
