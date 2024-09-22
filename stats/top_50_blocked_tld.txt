@@ -1,37 +1,37 @@
- 658112 com
- 114862 net
-  58335 br
-  48449 org
-  42422 de
-  34063 ru
+ 658062 com
+ 114861 net
+  58334 br
+  48447 org
+  42421 de
+  34060 ru
   26996 info
   23682 fr
-  22552 nl
-  19123 xyz
+  22553 nl
+  19122 xyz
   18763 uk
-  13028 top
-  12761 cc
+  13027 top
+  12760 cc
   11250 pl
-  10634 co
-  10314 eu
+  10632 co
+  10313 eu
   10249 in
    9125 it
    9102 jp
    8834 io
-   8011 site
+   8009 site
    7493 cn
    7308 biz
    7273 au
    7252 ch
    7201 dev
-   7152 me
+   7153 me
    7123 es
    6756 pro
    5783 ca
-   5756 online
+   5751 online
    5631 be
    5597 xxx
-   5563 sexy
+   5554 sexy
    5472 cz
    5414 lu
    5156 tv
