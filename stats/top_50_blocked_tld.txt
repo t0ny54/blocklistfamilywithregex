@@ -1,43 +1,43 @@
- 660061 com
- 114996 net
-  58411 br
-  48563 org
-  42480 de
-  34185 ru
-  27008 info
+ 659974 com
+ 114990 net
+  58410 br
+  48562 org
+  42479 de
+  34183 ru
+  27007 info
   23855 fr
-  22582 nl
-  19159 xyz
-  18863 uk
-  13052 top
+  22581 nl
+  19155 xyz
+  18862 uk
+  13048 top
   12766 cc
-  11260 pl
-  10634 co
+  11259 pl
+  10631 co
   10341 eu
-  10260 in
+  10257 in
    9147 it
    9109 jp
    8844 io
-   8021 site
+   8020 site
    7495 cn
-   7313 biz
+   7312 biz
    7307 au
    7297 ch
    7237 dev
    7164 me
    7162 es
-   6772 pro
-   5803 ca
+   6773 pro
+   5802 ca
    5777 online
    5658 be
    5603 xxx
-   5504 cz
+   5503 cz
    5414 lu
-   5299 sexy
-   5165 tv
+   5164 tv
    5070 club
-   4867 tr
-   4723 us
+   4866 tr
+   4720 us
+   4425 sexy
    4292 at
    4220 dk
    4141 ninja
@@ -46,5 +46,5 @@
    3820 hu
    3523 mobi
    3489 tk
-   3384 ro
+   3383 ro
    3276 st
