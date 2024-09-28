@@ -1,42 +1,42 @@
- 660028 com
- 115004 net
-  58397 br
-  48559 org
-  42475 de
-  34209 ru
-  27015 info
+ 659987 com
+ 115001 net
+  58395 br
+  48555 org
+  42474 de
+  34208 ru
+  27014 info
   23850 fr
-  22580 nl
-  19247 xyz
+  22579 nl
+  19243 xyz
   18866 uk
-  13040 top
-  12800 cc
+  13039 top
+  12799 cc
   11256 pl
-  10618 co
+  10611 co
   10333 eu
-  10260 in
+  10259 in
    9143 it
    9106 jp
-   8844 io
-   8024 site
+   8843 io
+   8021 site
    7492 cn
-   7306 biz
+   7304 biz
    7300 au
    7296 ch
    7237 dev
-   7167 es
-   7166 me
+   7165 es
+   7164 me
    6790 pro
    5806 ca
-   5774 online
+   5770 online
    5651 be
-   5600 xxx
+   5599 xxx
    5502 cz
    5412 lu
-   5162 tv
+   5160 tv
    5070 club
-   4868 tr
-   4716 us
+   4867 tr
+   4715 us
    4293 at
    4221 dk
    4141 ninja
