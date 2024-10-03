@@ -1,41 +1,41 @@
- 660827 com
- 115340 net
-  58392 br
-  48546 org
-  42473 de
-  34190 ru
-  27229 info
+ 660804 com
+ 115335 net
+  58388 br
+  48547 org
+  42472 de
+  34186 ru
+  27232 info
   23853 fr
   22548 nl
-  19248 xyz
+  19240 xyz
   18882 uk
-  13044 top
-  12818 cc
-  11290 pl
-  10611 co
-  10331 eu
-  10270 in
-   9140 it
+  13046 top
+  12819 cc
+  11286 pl
+  10607 co
+  10329 eu
+  10268 in
+   9139 it
    9105 jp
    8839 io
-   8005 site
+   8001 site
    7468 cn
-   7322 biz
+   7323 biz
    7308 ch
    7298 au
    7237 dev
-   7202 me
+   7201 me
    7166 es
-   6812 pro
+   6813 pro
    5806 ca
-   5785 online
-   5648 be
+   5782 online
+   5647 be
    5616 xxx
    5507 cz
    5413 lu
-   5169 tv
-   5086 club
-   4869 tr
+   5170 tv
+   5089 club
+   4870 tr
    4724 us
    4295 at
    4219 dk
@@ -47,4 +47,4 @@
    3489 tk
    3385 ro
    3275 st
-   3005 shop
+   3007 shop
