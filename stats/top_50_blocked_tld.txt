@@ -1,39 +1,39 @@
- 657240 com
- 115375 net
+ 657255 com
+ 115379 net
   58386 br
-  48558 org
+  48561 org
   42464 de
-  34239 ru
+  34242 ru
   27237 info
   23866 fr
   22550 nl
   19256 xyz
   18882 uk
-  13058 top
+  13060 top
   12826 cc
   11287 pl
-  10601 co
-  10325 eu
+  10600 co
+  10324 eu
   10277 in
    9142 it
    9106 jp
    8839 io
-   8010 site
+   8011 site
    7470 cn
-   7327 biz
+   7325 biz
    7310 ch
    7296 au
-   7248 dev
+   7249 dev
    7220 me
-   7169 es
+   7170 es
    6819 pro
-   5807 online
    5806 ca
+   5804 online
    5650 be
-   5621 xxx
+   5620 xxx
    5503 cz
    5413 lu
-   5170 tv
+   5172 tv
    5087 club
    4869 tr
    4731 us
@@ -41,10 +41,10 @@
    4221 dk
    4140 ninja
    4039 id
-   3927 se
+   3924 se
    3815 hu
-   3523 mobi
+   3522 mobi
    3489 tk
    3388 ro
    3275 st
-   3140 shop
+   3145 shop
