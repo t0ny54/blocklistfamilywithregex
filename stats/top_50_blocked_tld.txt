@@ -1,50 +1,50 @@
- 655541 com
- 115262 net
-  58275 br
-  48498 org
-  42417 de
+ 655433 com
+ 115254 net
+  58274 br
+  48494 org
+  42413 de
   34139 ru
-  27213 info
-  23805 fr
-  22501 nl
-  19214 xyz
-  18843 uk
-  13043 top
+  27208 info
+  23804 fr
+  22498 nl
+  19210 xyz
+  18842 uk
+  13039 top
   12811 cc
-  11265 pl
-  10582 co
+  11263 pl
+  10579 co
   10292 eu
   10251 in
    9246 io
    9111 it
    9107 jp
-   7997 site
+   7996 site
    7468 cn
    7320 biz
    7282 au
    7279 ch
    7234 dev
-   7210 me
+   7209 me
    7146 es
-   6810 pro
+   6809 pro
    5792 ca
-   5723 online
+   5705 online
    5644 be
    5617 xxx
    5478 cz
    5408 lu
-   5163 tv
-   5068 club
+   5165 tv
+   5066 club
    4852 tr
    4727 us
    4286 at
    4217 dk
    4140 ninja
    4030 id
-   3902 se
-   3807 hu
-   3513 mobi
+   3897 se
+   3806 hu
+   3508 mobi
    3487 tk
    3380 ro
-   3320 shop
+   3319 shop
    3275 st
