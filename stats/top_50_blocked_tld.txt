@@ -1,50 +1,50 @@
- 659890 com
- 115785 net
-  58540 br
-  48861 org
-  42604 de
-  34880 ru
-  27315 info
-  22692 nl
-  20072 fr
-  19092 xyz
-  18877 uk
-  13070 top
-  12920 cc
-  11337 pl
-  10622 co
-  10380 eu
-  10301 in
-   9278 it
+ 660018 com
+ 115799 net
+  58549 br
+  48870 org
+  42606 de
+  34890 ru
+  27314 info
+  22694 nl
+  20074 fr
+  19099 xyz
+  18878 uk
+  13075 top
+  12921 cc
+  11340 pl
+  10624 co
+  10381 eu
+  10304 in
+   9281 it
    9229 io
    9136 jp
-   8017 site
+   8022 site
    7474 cn
-   7364 ch
-   7334 biz
-   7332 au
+   7365 ch
+   7335 biz
+   7334 au
    7282 dev
-   7276 es
-   7227 me
-   6837 pro
+   7275 es
+   7226 me
+   6858 pro
    5860 ca
+   5717 online
    5698 be
-   5685 online
-   5644 xxx
-   5514 cz
+   5643 xxx
+   5516 cz
    5415 lu
-   5182 tv
-   5062 club
-   4746 tr
+   5183 tv
+   5063 club
    4744 us
+   4714 tr
    4328 at
    4249 dk
    4140 ninja
    4063 id
-   3928 se
-   3894 hu
-   3507 mobi
+   3929 se
+   3893 hu
+   3511 mobi
    3490 tk
-   3413 ro
-   3351 shop
+   3414 ro
+   3359 shop
    3277 st
