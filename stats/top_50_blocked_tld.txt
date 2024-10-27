@@ -1,16 +1,16 @@
- 660018 com
- 115799 net
+ 660028 com
+ 115802 net
   58549 br
-  48870 org
+  48871 org
   42606 de
-  34890 ru
+  34899 ru
   27314 info
   22694 nl
   20074 fr
-  19099 xyz
+  19100 xyz
   18878 uk
   13075 top
-  12921 cc
+  12926 cc
   11340 pl
   10624 co
   10381 eu
@@ -23,12 +23,12 @@
    7365 ch
    7335 biz
    7334 au
-   7282 dev
+   7283 dev
    7275 es
    7226 me
-   6858 pro
+   6855 pro
    5860 ca
-   5717 online
+   5719 online
    5698 be
    5643 xxx
    5516 cz
@@ -43,8 +43,8 @@
    4063 id
    3929 se
    3893 hu
-   3511 mobi
+   3510 mobi
    3490 tk
    3414 ro
-   3359 shop
+   3361 shop
    3277 st
