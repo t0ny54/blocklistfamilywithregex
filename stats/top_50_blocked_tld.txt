@@ -1,50 +1,50 @@
- 660808 com
- 115711 net
-  58525 br
-  48853 org
-  42587 de
-  34849 ru
-  27296 info
-  22682 nl
-  20076 fr
-  19063 xyz
-  18831 uk
-  13008 top
-  12918 cc
-  11344 pl
-  10619 co
-  10376 eu
-  10283 in
-   9271 it
+ 660527 com
+ 115691 net
+  58493 br
+  48836 org
+  42581 de
+  34836 ru
+  27294 info
+  22679 nl
+  20070 fr
+  18974 xyz
+  18830 uk
+  13006 top
+  12927 cc
+  11342 pl
+  10617 co
+  10373 eu
+  10274 in
+   9270 it
    9224 io
-   9135 jp
-   8018 site
-   7475 cn
-   7362 ch
-   7335 au
+   9132 jp
+   8007 site
+   7471 cn
+   7355 ch
+   7331 au
    7329 biz
-   7292 dev
-   7268 es
-   7214 me
-   6838 pro
-   5860 ca
-   5718 online
-   5695 be
+   7291 dev
+   7255 es
+   7211 me
+   6837 pro
+   5857 ca
+   5711 online
+   5694 be
    5642 xxx
-   5514 cz
+   5511 cz
    5414 lu
    5181 tv
-   5053 club
-   4740 us
-   4705 tr
-   4327 at
-   4246 dk
+   5052 club
+   4739 us
+   4701 tr
+   4325 at
+   4247 dk
    4140 ninja
-   4062 id
-   3924 se
-   3887 hu
+   4061 id
+   3920 se
+   3884 hu
    3507 mobi
    3490 tk
-   3414 ro
-   3352 shop
+   3412 ro
+   3350 shop
    3276 st
