@@ -1,44 +1,44 @@
- 668863 com
- 116355 net
-  58953 br
+ 668954 com
+ 116356 net
+  58952 br
   49353 org
-  42993 de
-  35673 ru
-  27668 info
+  42996 de
+  35684 ru
+  27666 info
   22760 nl
   20176 fr
   19092 uk
-  18922 xyz
-  13314 top
-  13099 cc
+  18920 xyz
+  13316 top
+  13100 cc
   11626 pl
   10668 co
-  10454 eu
+  10455 eu
   10374 in
    9418 it
    9295 io
-   9154 jp
-   8017 site
-   7512 cn
+   9155 jp
+   8016 site
+   7513 cn
    7422 ch
    7404 biz
    7384 au
-   7382 dev
-   7371 es
-   7357 pro
+   7383 dev
+   7373 es
+   7360 pro
    7282 me
-   5866 ca
-   5846 online
-   5733 be
+   5867 ca
+   5848 online
+   5734 be
    5662 xxx
    5555 cz
    5419 lu
    5222 tv
-   5102 club
+   5103 club
    4782 us
-   4564 tr
+   4565 tr
    4357 at
-   4269 dk
+   4271 dk
    4155 id
    4140 ninja
    3968 se
@@ -47,4 +47,4 @@
    3491 tk
    3465 ro
    3280 st
-   3212 shop
+   3209 shop
