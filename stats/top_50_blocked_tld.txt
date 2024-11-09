@@ -1,33 +1,33 @@
- 669403 com
- 116425 net
-  58980 br
-  49380 org
+ 669444 com
+ 116429 net
+  58981 br
+  49383 org
   43005 de
   35698 ru
   27680 info
   22764 nl
   20181 fr
-  19262 xyz
+  19267 xyz
   19103 uk
   13327 top
-  13108 cc
-  11630 pl
-  10673 co
-  10464 eu
-  10376 in
+  13111 cc
+  11631 pl
+  10674 co
+  10466 eu
+  10380 in
    9421 it
    9296 io
    9157 jp
-   8029 site
+   8030 site
    7514 cn
    7422 ch
    7406 biz
    7391 dev
    7385 au
    7378 es
-   7373 pro
-   7287 me
-   5872 online
+   7374 pro
+   7289 me
+   5873 online
    5870 ca
    5735 be
    5662 xxx
@@ -42,9 +42,9 @@
    4159 id
    4140 ninja
    3970 se
-   3927 hu
+   3928 hu
    3796 mobi
    3491 tk
    3467 ro
    3280 st
-   3245 shop
+   3246 shop
