@@ -1,50 +1,50 @@
- 667314 com
- 116387 net
-  58931 br
-  49364 org
+ 667277 com
+ 116384 net
+  58930 br
+  49362 org
   42999 de
-  35741 ru
-  27671 info
+  35730 ru
+  27673 info
   22749 nl
   20150 fr
   19499 xyz
   19096 uk
   13323 top
-  13110 cc
-  11626 pl
+  13108 cc
+  11628 pl
   10668 co
   10459 eu
   10359 in
    9420 it
    9294 io
    9152 jp
-   8005 site
+   8004 site
    7508 cn
    7418 ch
-   7400 biz
+   7399 biz
    7391 dev
    7386 au
-   7364 pro
-   7360 es
+   7366 pro
+   7364 es
    7284 me
    5867 ca
-   5852 online
+   5851 online
    5729 be
    5661 xxx
-   5555 cz
+   5554 cz
    5419 lu
    5218 tv
    5100 club
-   4781 us
+   4780 us
    4554 tr
    4357 at
    4273 dk
-   4156 id
+   4157 id
    4140 ninja
    3967 se
    3923 hu
-   3792 mobi
+   3791 mobi
    3491 tk
    3464 ro
    3280 st
-   3223 shop
+   3221 shop
