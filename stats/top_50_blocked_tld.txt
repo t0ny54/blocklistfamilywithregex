@@ -1,50 +1,50 @@
- 667675 com
- 116303 net
-  58847 br
-  49312 org
-  42979 de
-  35574 ru
+ 667452 com
+ 116276 net
+  58839 br
+  49304 org
+  42910 de
+  35527 ru
   27651 info
-  22737 nl
-  20145 fr
-  19453 xyz
-  19075 uk
-  13290 top
-  13103 cc
-  11617 pl
-  10669 co
-  10454 eu
-  10335 in
-   9408 it
+  22741 nl
+  20143 fr
+  19450 xyz
+  19070 uk
+  13283 top
+  13104 cc
+  11552 pl
+  10666 co
+  10446 eu
+  10334 in
+   9406 it
    9290 io
-   9154 jp
-   7973 site
-   7502 cn
-   7411 ch
-   7397 biz
-   7389 dev
-   7382 au
+   9155 jp
+   7966 site
+   7501 cn
+   7408 ch
+   7396 biz
+   7390 dev
+   7377 au
    7366 pro
-   7326 es
-   7282 me
-   5863 ca
-   5823 online
-   5717 be
+   7322 es
+   7281 me
+   5860 ca
+   5819 online
+   5714 be
    5658 xxx
-   5549 cz
+   5548 cz
    5419 lu
    5215 tv
-   5089 club
+   5088 club
    4775 us
-   4524 tr
-   4356 at
-   4272 dk
-   4158 id
+   4522 tr
+   4354 at
+   4273 dk
+   4155 id
    4140 ninja
-   3971 se
-   3919 hu
-   3787 mobi
+   3972 se
+   3918 hu
+   3784 mobi
    3491 tk
-   3460 ro
+   3459 ro
    3280 st
-   3185 shop
+   3177 shop
