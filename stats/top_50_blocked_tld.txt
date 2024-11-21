@@ -1,50 +1,50 @@
- 667301 com
- 116274 net
-  58820 br
-  49285 org
-  42904 de
-  35504 ru
-  27655 info
+ 667369 com
+ 116268 net
+  58815 br
+  49289 org
+  42906 de
+  35522 ru
+  27654 info
   22735 nl
-  20141 fr
-  19443 xyz
-  19070 uk
-  13272 top
-  13098 cc
+  20148 fr
+  19423 xyz
+  19069 uk
+  13277 top
+  13100 cc
   11562 pl
   10664 co
-  10448 eu
+  10438 eu
   10324 in
    9407 it
-   9267 io
-   9156 jp
+   9238 io
+   9158 jp
    7973 site
    7499 cn
-   7410 ch
-   7394 biz
-   7392 dev
-   7383 pro
-   7375 au
+   7412 ch
+   7393 dev
+   7392 biz
+   7380 pro
+   7373 au
    7326 es
    7280 me
-   5860 ca
-   5822 online
-   5712 be
+   5859 ca
+   5821 online
+   5709 be
    5659 xxx
-   5547 cz
+   5545 cz
    5419 lu
    5213 tv
-   5093 club
-   4777 us
-   4523 tr
-   4353 at
-   4275 dk
-   4149 id
-   4140 ninja
-   3972 se
+   5090 club
+   4776 us
+   4525 tr
+   4351 at
+   4274 dk
+   4151 id
+   4139 ninja
+   3971 se
    3917 hu
    3788 mobi
    3491 tk
-   3456 ro
+   3457 ro
    3280 st
-   3211 shop
+   3209 shop
