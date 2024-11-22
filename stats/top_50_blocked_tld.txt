@@ -1,50 +1,50 @@
- 667369 com
- 116268 net
-  58815 br
-  49289 org
-  42906 de
-  35522 ru
-  27654 info
+ 667310 com
+ 116249 net
+  58812 br
+  49277 org
+  42905 de
+  35514 ru
+  27652 info
   22735 nl
-  20148 fr
-  19423 xyz
+  20147 fr
+  19418 xyz
   19069 uk
-  13277 top
+  13274 top
   13100 cc
-  11562 pl
-  10664 co
+  11561 pl
+  10663 co
   10438 eu
-  10324 in
-   9407 it
+  10323 in
+   9406 it
    9238 io
    9158 jp
    7973 site
    7499 cn
    7412 ch
    7393 dev
-   7392 biz
-   7380 pro
+   7391 biz
    7373 au
-   7326 es
-   7280 me
-   5859 ca
-   5821 online
+   7358 pro
+   7327 es
+   7272 me
+   5860 ca
+   5820 online
    5709 be
-   5659 xxx
+   5658 xxx
    5545 cz
    5419 lu
-   5213 tv
-   5090 club
+   5212 tv
+   5086 club
    4776 us
    4525 tr
    4351 at
    4274 dk
    4151 id
    4139 ninja
-   3971 se
+   3970 se
    3917 hu
-   3788 mobi
+   3787 mobi
    3491 tk
    3457 ro
    3280 st
-   3209 shop
+   3205 shop
