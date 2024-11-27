@@ -1,50 +1,50 @@
- 667031 com
- 116181 net
-  58813 br
-  49252 org
-  42884 de
-  35453 ru
-  27657 info
-  22734 nl
-  20150 fr
-  19405 xyz
-  19063 uk
-  13262 top
-  13112 cc
-  11555 pl
-  10662 co
-  10430 eu
-  10315 in
+ 667268 com
+ 116189 net
+  58815 br
+  49255 org
+  42889 de
+  35476 ru
+  27667 info
+  22735 nl
+  20151 fr
+  19427 xyz
+  19069 uk
+  13269 top
+  13119 cc
+  11563 pl
+  10663 co
+  10433 eu
+  10316 in
    9407 it
    9236 io
    9157 jp
-   7971 site
+   7980 site
    7496 cn
    7412 dev
    7398 ch
-   7386 biz
+   7389 biz
    7370 au
-   7327 es
-   7286 pro
+   7328 es
+   7279 pro
    7249 me
    5859 ca
-   5817 online
+   5826 online
    5709 be
    5657 xxx
-   5543 cz
+   5545 cz
    5417 lu
-   5211 tv
-   5066 club
-   4777 us
-   4528 tr
+   5210 tv
+   5067 club
+   4778 us
+   4529 tr
    4352 at
    4276 dk
-   4150 id
+   4151 id
    4139 ninja
-   3969 se
+   3970 se
    3916 hu
    3787 mobi
    3491 tk
-   3457 ro
+   3455 ro
    3280 st
-   3171 shop
+   3189 shop
