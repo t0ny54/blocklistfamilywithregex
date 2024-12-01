@@ -1,9 +1,9 @@
- 666974 com
- 116172 net
+ 666969 com
+ 116170 net
   58802 br
-  49242 org
-  42880 de
-  35451 ru
+  49241 org
+  42879 de
+  35450 ru
   27673 info
   22731 nl
   20150 fr
@@ -25,10 +25,10 @@
    7385 biz
    7373 au
    7327 es
-   7297 pro
+   7295 pro
    7248 me
    5858 ca
-   5832 online
+   5830 online
    5706 be
    5654 xxx
    5545 cz
@@ -41,7 +41,7 @@
    4274 dk
    4146 id
    4139 ninja
-   3977 se
+   3976 se
    3914 hu
    3786 mobi
    3491 tk
