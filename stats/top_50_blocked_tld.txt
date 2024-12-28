@@ -1,50 +1,50 @@
- 665798 com
- 115719 net
+ 665940 com
+ 115739 net
   59246 br
-  48938 org
-  42905 de
-  36421 ru
-  27371 info
+  48952 org
+  42908 de
+  36468 ru
+  27373 info
   22879 nl
-  20281 fr
-  19558 xyz
-  19076 uk
-  13444 cc
-  13239 top
-  11521 pl
-  10719 co
-  10507 eu
-  10362 in
-   9564 it
-   9418 io
+  20283 fr
+  19556 xyz
+  19077 uk
+  13447 cc
+  13242 top
+  11523 pl
+  10720 co
+  10509 eu
+  10363 in
+   9565 it
+   9419 io
    9152 jp
-   8027 site
+   8029 site
    7848 dev
    7630 cn
    7474 ch
    7400 au
-   7378 es
-   7352 biz
-   7317 pro
-   7236 me
+   7379 es
+   7355 biz
+   7335 pro
+   7239 me
    5932 ca
-   5853 online
-   5758 be
-   5636 cz
+   5854 online
+   5759 be
+   5639 cz
    5424 lu
-   5161 tv
+   5162 tv
    5131 xxx
-   5071 club
+   5072 club
    4789 us
    4554 tr
-   4388 at
-   4199 hu
+   4390 at
+   4200 hu
    4181 id
    4135 ninja
-   4103 dk
+   4105 dk
    4052 se
    3971 mobi
-   3512 ro
+   3511 ro
    3493 tk
    3280 st
-   2856 shop
+   2854 shop
