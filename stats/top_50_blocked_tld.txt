@@ -1,50 +1,50 @@
- 621184 com
- 111211 net
+ 621024 com
+ 111194 net
   56793 br
-  46756 org
-  41653 de
-  33092 ru
-  26218 info
-  21477 nl
-  20906 fr
-  18043 uk
-  17733 xyz
+  46750 org
+  41648 de
+  33086 ru
+  26216 info
+  21476 nl
+  20903 fr
+  18040 uk
+  17732 xyz
   12887 cc
   12340 top
-  11089 pl
-  10359 co
-   9774 eu
+  11077 pl
+  10356 co
+   9766 eu
    9711 in
-   9030 jp
+   9027 jp
    8858 io
-   8614 it
-   7605 cn
+   8610 it
+   7603 cn
    7516 site
    7114 au
-   7074 biz
+   7073 biz
    6962 ch
    6895 me
-   6654 pro
-   6635 es
+   6649 pro
+   6634 es
    5666 ca
    5613 dev
    5398 lu
    5376 be
-   5190 cz
+   5189 cz
    5130 xxx
-   5112 online
-   4973 tv
+   5111 online
+   4975 tv
    4742 club
-   4602 us
+   4601 us
    4144 at
    4133 tr
    4131 ninja
    3999 id
    3944 dk
    3826 hu
-   3785 se
+   3787 se
    3764 mobi
    3478 tk
-   3271 st
+   3270 st
    3240 ro
    2667 live
