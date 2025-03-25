@@ -1,2 +1,1 @@
-ads.sportslocalmedia.com
-matomo.lantmannen.com
+analytics-wpt.smhi.se
