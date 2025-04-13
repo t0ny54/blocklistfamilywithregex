@@ -1,7 +1,1 @@
-cdnjs.cloudflane.com
-ceciliavenus.com
-click.kmindex.ru
-counting.kmindex.ru
-heimi-lwx.com
-panatenlink.pl
-test.minr.pw
+www.cloudflane.com
