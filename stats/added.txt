@@ -1,2 +1,1 @@
-cdnjs.cloudflane.com
-test.minr.pw
+www.cloudflane.com
