@@ -1,7 +1,1 @@
-bostad24.se
-bostadslistan.se
-bostadsportal.se
-hyrio.se
-rentia.se
-rentify.se
-rentler.se
+t.fastcmp.com
