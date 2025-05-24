@@ -1,2 +1,0 @@
-ads-img.mozilla.org
-ads.prod.webservices.mozgcp.net
