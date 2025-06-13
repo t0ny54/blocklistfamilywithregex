@@ -1,1 +1,3 @@
-advertipros.com
+cadmus.script.ac
+panorama.wixapps.net
+wix-engage-visitors-prod-16.firebaseio.com
