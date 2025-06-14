@@ -1,3 +1,5 @@
-cadmus.script.ac
-panorama.wixapps.net
-wix-engage-visitors-prod-16.firebaseio.com
+annons.fiskesnack.com
+cdn.brevo.com
+cdn.by.wonderpush.com
+mediumshort.com
+reloadphoto.com
