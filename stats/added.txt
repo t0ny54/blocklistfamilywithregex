@@ -1,2 +1,0 @@
-cdn.spelwidgets.se
-matomo.nokportalen.se
