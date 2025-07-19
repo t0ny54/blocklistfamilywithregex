@@ -1,0 +1,12 @@
+ad0.bigmir.net
+ads-portal-cdn.vidaatv.net
+c.bigmir.net
+click.kmindex.ru
+counting.kmindex.ru
+look.ichlnk.com
+look.opskln.com
+nmtracking.netflix.com
+rpt-ads.vidaahub.com
+rsc-ads.vidaahub.com
+telemetry.seenthis.io
+ter-jrnl-oc.vidaahub.com
