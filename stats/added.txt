@@ -1,1 +1,4 @@
-swetrix.com
+api.swetrix.com
+fakedisguise.com
+historytrade.com
+mineinvoice.com
