@@ -1,0 +1,3 @@
+app.visitor-analytics.io
+cdn.confiant-integrations.net
+scripts.stay22.com
