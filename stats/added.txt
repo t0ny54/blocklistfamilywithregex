@@ -1,3 +1,4 @@
-app.visitor-analytics.io
-cdn.confiant-integrations.net
-scripts.stay22.com
+bb-pbc.mainroll.com
+ls.dycdn.net
+www.gmial.com
+www.javparty.com
