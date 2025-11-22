@@ -1,0 +1,11 @@
+analytics.emarketer.com
+apps-cdn.relevant-digital.com
+cdn.relevant-digital.com
+click.email.strawberry.no
+eniro-cdn.relevant-digital.com
+generateoffice.com
+mgdk-cdn.relevant-digital.com
+otc-cdn.relevant-digital.com
+schibsted-cdn.relevant-digital.com
+soggyzoo.com
+tracking.utlservice.com
