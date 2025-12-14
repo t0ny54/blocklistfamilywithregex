@@ -1,2 +1,4 @@
-compilework.com
-dicecandies.com
+dev.cryptobara.com
+digger.cryptobara.com
+miner.cryptobara.com
+vitals.flyingpress.com

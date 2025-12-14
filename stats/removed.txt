@@ -1,3 +1,0 @@
-dev.cryptobara.com
-digger.cryptobara.com
-miner.cryptobara.com
