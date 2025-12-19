@@ -1,39 +1,39 @@
- 621192 com
- 111237 net
+ 621237 com
+ 111248 net
   56793 br
-  46749 org
+  46756 org
   41654 de
-  33030 ru
-  26222 info
+  33035 ru
+  26224 info
   21480 nl
   20906 fr
-  18044 uk
-  17737 xyz
-  12888 cc
-  12344 top
+  18045 uk
+  17740 xyz
+  12918 cc
+  12355 top
   11084 pl
   10359 co
-   9768 eu
+   9769 eu
    9711 in
    9030 jp
-   8867 io
+   8869 io
    8614 it
    7605 cn
-   7520 site
+   7522 site
    7114 au
    7079 biz
    6962 ch
-   6897 me
-   6668 pro
+   6898 me
+   6669 pro
    6635 es
    5666 ca
    5614 dev
    5398 lu
    5379 be
-   5190 cz
+   5191 cz
    5130 xxx
-   5112 online
-   4973 tv
+   5113 online
+   4977 tv
    4744 club
    4604 us
    4144 at
@@ -45,6 +45,6 @@
    3799 se
    3764 mobi
    3477 tk
-   3270 st
+   3271 st
    3240 ro
-   2667 live
+   2673 live
