@@ -1,2 +1,5 @@
-groovespacing.com
-morefolks.com
+amz.langhort.com
+chat.langhort.com
+d.langhort.com
+data.langhort.com
+s.langhort.com
