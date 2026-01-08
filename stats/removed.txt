@@ -1,0 +1,6 @@
+amz.langhort.com
+cdn.confiant-integrations.net
+chat.langhort.com
+d.langhort.com
+data.langhort.com
+s.langhort.com
