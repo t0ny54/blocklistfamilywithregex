@@ -1,2 +1,0 @@
-cdnjs.cloudflane.com
-www.cloudflane.com
